@@ -12,10 +12,10 @@
   sublinks:
     - name: Categories
       url: /premier-league/categories
-      group: premier-league
+      group: premierleague
     - name: Tags
       url: /premier-league/tags
-      group: premier-league
+      group: premierleague
 
 - name: La Liga
   url: /laliga
@@ -23,10 +23,10 @@
   sublinks:
     - name: Categories
       url: /la-liga/categories
-      group: la-liga
+      group: laliga
     - name: Tags
       url: /la-liga/tags
-      group: la-liga
+      group: laliga
 
 - name: Otras Competiciones
   url: /otras
