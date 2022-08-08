@@ -25,7 +25,7 @@
       url: /la-liga/categories
       group: laliga
     - name: Tags
-      url: /la-liga/tags
+      url: /laliga/tags
       group: laliga
 
 - name: Otras Competiciones
