@@ -1,0 +1,44 @@
+- name: Home
+  url: /
+  group: home
+
+- name: About
+  url: /about
+  group: about
+
+- name: Premier League
+  url: /premierleague
+  group: premierleague
+  sublinks:
+    - name: Categories
+      url: /premier-league/categories
+      group: premier-league
+    - name: Tags
+      url: /premier-league/tags
+      group: premier-league
+
+- name: La Liga
+  url: /laliga
+  group: laliga
+  sublinks:
+    - name: Categories
+      url: /la-liga/categories
+      group: la-liga
+    - name: Tags
+      url: /la-liga/tags
+      group: la-liga
+
+- name: Otras Competiciones
+  url: /otras
+  group: otras
+  sublinks:
+    - name: Categories
+      url: /otras/categories
+      group: otras
+    - name: Tags
+      url: /otras/tags
+      group: otras
+
+- name: Contact
+  url: /contact
+  group: contact

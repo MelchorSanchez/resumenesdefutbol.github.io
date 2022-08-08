@@ -1,0 +1,31 @@
+name: "Resultados de Futbol"
+description: "Resultados de Futbol. Informacion actualizada sobre la premier league, la liga y otras competiciones. Resumenes de las ultimas jornadas, fichajes, quien es quien , curiosidades, y más!"
+url: "http://resultadosdefutbol.com"
+logo: 'avatar.png'
+
+plugins: [jekyll-paginate, jekyll-seo-tag]
+paginate: 5
+paginate_path: "premier-league/page:num"
+
+permalink: pretty
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+
+
+
+
+excerpt_separator: '<!-- excerpt-end -->'

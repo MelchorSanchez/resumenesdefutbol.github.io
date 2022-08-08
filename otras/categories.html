@@ -1,0 +1,29 @@
+
+---
+layout: page
+title: Categories
+---
+
+<div class="categories-expo">
+  <div class="categories-expo-list">
+    {% for category in site.categories %}
+    <a href="#{{ category[0] | slugify }}" class="codinfox-category-mark">{{ category[0] }}</a>
+    {% endfor %}
+  </div>
+  <hr/>
+  <div class="categories-expo-section">
+    {% for category in site.categories %}
+    <h2 id="{{ category[0] | slugify }}">{{ category[0] }}</h2>
+    <ul class="categories-expo-posts">
+      {% for post in category[1] %}
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+      <li>
+        {{ post.title }}
+      <small class="post-date">{{ post.date | date_to_string }}</small>
+      </li>
+      </a>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+</div>

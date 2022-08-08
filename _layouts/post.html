@@ -1,0 +1,22 @@
+{% include analytics.html %}
+{% include header.html %}
+
+<div class="row-fluid">
+    <div class="col-sm-12 col-md-12 col-xs-12">
+        <div class = "page header" style= "color:steelblue"><h1>{{ page.title }}</h1></div>
+        {% if page.subtitle %}<h3 style="font-style:italic;color:steelblue">{{ page.subtitle }}</h3>{% endif %}
+        <p><span class="author" style = "color:lightsteelblue">{{ page.author }}</span><br>
+        <span class="date" style = "color:lightsteelblue"><em>{{ page.date | date_to_long_string }}</em></span></p>
+        <br>
+        {{ content }}
+    </div>
+</div>
+<!--{% include sharebuttons.html %} -->
+<!-- <div id="sfcrm1jphwx1l3k5p3bbs2d6q8eytyyu4me"></div>
+<script type="text/javascript" src="https://counter8.freecounter.ovh/private/counter.js?c=rm1jphwx1l3k5p3bbs2d6q8eytyyu4me&down=async" async></script>
+<br><a href="https://www.freecounterstat.com">free web counter</a><noscript><a href="https://www.freecounterstat.com" title="free web counter"><img src="https://counter8.freecounter.ovh/private/freecounterstat.php?c=rm1jphwx1l3k5p3bbs2d6q8eytyyu4me" border="0" title="free web counter" alt="free web counter"></a></noscript> -->
+<!-- <div class = "visitor-count"> Número de visitantes a esta página hasta el momento: </ div>
+<img alt = "Hit counter" src = "contador.php" /><br> -->
+
+{% include footer.html %}
+{% include utterance.html %}

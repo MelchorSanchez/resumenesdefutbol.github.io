@@ -1,0 +1,15 @@
+{% include analytics.html %}
+{% include header.html %}
+<div class="page-header"><h1 class="text-left"> Science, Drug discovery, Biotech, Pharma & more <br><small>In Blog Format</small> </h1></div>
+
+<div class="container px-0 max-width: 100%">
+    <div class="row">
+      <div class="col-sm-8 col-md-9">
+          {{ content }}
+      </div>
+      <div class="col-sm-4 col-md-3 hidden-xs">
+          {% include twitter_sidebar.html %}
+       </div>
+    </div>
+</div>
+{% include footer.html %}

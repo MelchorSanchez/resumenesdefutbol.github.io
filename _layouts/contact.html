@@ -1,0 +1,28 @@
+{% include analytics.html %}
+{% include header.html %}
+<div class="page-header"><h1 class="text-left"> Get in touch </h1></div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8 col-md-8 col-xs-12">
+            {{ content }}
+        </div>
+        <div class="col-sm-4 col-md-4 col-xs-12">
+          <div style="width:100%;height:263px;border:3px solid gray; border-radius: 8px;background-color:gray;" display="flex;" justify-content="center;">
+          <form action="https://formspree.io/f/xqkwagda" method="POST" id="contact-form">
+           <input type="hidden" name="_subject" value="Contact request from personal website">
+           <p class="text-center" style="font-size:120%; color:white; font-weight:bold">Drop me a message</p>
+           <input type="text" name="Name" placeholder="Your name"  data-validate-field="Name" required=False display="block" style='width:100%;'>
+           <p></p>
+           <input type="email" class="fcf-form-control" name="_replyto" placeholder="Your email" required=True display="block" style='width:100%'>
+           <p></p>
+           <textarea name="message" class="fcf-form-control" placeholder="Type your message" required=True style='width:100%; height:100px'></textarea>
+           <p></p>
+           <button type="submit" style="background-color:skyblue; color:darkblue; border:3px solid skyblue; border-radius: 8px; font-weight:bold;width: 100%" class="button button-center">Submit</button>
+          </form>
+          </div>
+    </div>
+</div>
+</div>
+<br>
+{% include footer.html %}
