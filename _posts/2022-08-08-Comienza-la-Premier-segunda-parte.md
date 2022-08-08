@@ -17,7 +17,7 @@ A la misma hora que el United perdia con Brighton, Brentford y Leicester empatab
 Finlamente la jornada la cerró el Manchester City-West Ham. El equipo de Guardiola se impuso por [2-0](https://youtu.be/wlvZPDNjJB4) con goles de Haaland, el primero de penalti, a los hammers en su estadio.  En el equipo de Machester debutaron tanto Haaland como Julian Alvarez y Kalvin Philips, estos dos últimos entrando desde el banqullo. Por parte del conjunto de Londres debutaron Scamacca y Areola, que tuvo que substtuir  Fabianski, comprado en propiedad este curso tras estar el ultimo año a prestamo.
 
 
-Interesante primera jornada de la Premier con sorpresas como los pinchazos de Liverpool y United. Vereos que nos depara la segunda jornada donde los algunso equipos contaran con nuevas incorporaciones que seguro esperan les ayuden a mejorar su rendimiento.
+Interesante primera jornada de la Premier con sorpresas como los pinchazos de Liverpool y United. Veremos que nos depara la segunda jornada donde algunso equipos contaran con nuevas incorporaciones que seguro esperan les ayuden a mejorar su rendimiento. Solo el tiempo y el  balón nos dira si este es el caso!
 
 Más información de los diferentes partidos [aquí](https://www.google.com/search?rlz=1C1CHBD_esES802ES802&q=premier+resultados&spell=1&sa=X&ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&biw=1163&bih=626&dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;).
 
