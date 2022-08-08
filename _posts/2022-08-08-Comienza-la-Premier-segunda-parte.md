@@ -4,7 +4,7 @@ layout: post
 group: premierleague
 comments: true
 author : Melchor Sanchez-Martinez
-date: 2022-08-07
+date: 2022-08-08
 tags: [Jornada de Liga, Resumen, PremierLeague]
 categories: [PremierLeague]
 ---
