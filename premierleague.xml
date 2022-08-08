@@ -2,14 +2,13 @@
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Science, Drug discovery, Biotech, Pharma & more</title>
-  <subtitle>In Blog Format</subtitle>
+  <title>Premier League</title>
   <link href="{{ site.url }}"/>
   <link type="application/atom+xml" rel="self" href="{{site.url}}/blog.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{site.url}}</id>
   <author>
-    <name>Melchor Sanchez Martinez</name>
+    <name>Resumenes de Futbol</name>
     <!-- <email>you@example.com</email> -->
   </author>
 

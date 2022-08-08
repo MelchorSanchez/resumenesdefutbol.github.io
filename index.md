@@ -6,7 +6,7 @@ group: home
 
 <style>
 body {
-  background-image: url('/static/img/compnag.webp');
+  background-image: url('/static/img/portada.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 0px 0px;
@@ -24,4 +24,4 @@ body {
 
 <!-- <img src="/static/img/compnag.webp" class="img-responsive max-width: 100%; height: auto"/> -->
 
-<h1 class="text-center" style="color:white;font-size:calc(1em + 3vw); position:absolute; bottom:72.5px;">**Melchor Sanchez-Martinez, PhD**</h1>
+<h1 class="text-center" style="color:white;font-size:calc(1em + 3vw); position:absolute; bottom:72.5px;">**Resumenes de Futbol**</h1>
