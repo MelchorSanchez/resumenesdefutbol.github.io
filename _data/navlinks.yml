@@ -6,38 +6,26 @@
   url: /about
   group: about
 
-- name: Premier League
-  url: /premierleague
-  group: premierleague
+- name: Blog
+  url: /blog
+  group: blog
   sublinks:
     - name: Categories
-      url: /premier-league/categories
-      group: premierleague
+      url: /blog/categories
+      group: blog
     - name: Tags
-      url: /premier-league/tags
-      group: premierleague
+      url: /blog/tags
+      group: blog
 
-- name: La Liga
-  url: /laliga
-  group: laliga
-  sublinks:
-    - name: Categories
-      url: /la-liga/categories
-      group: laliga
-    - name: Tags
-      url: /laliga/tags
-      group: laliga
+- name: Clasificaciones
+  url: /clasificaciones
+  group: clasificaciones
 
-- name: Otras Competiciones
-  url: /otras
-  group: otras
-  sublinks:
-    - name: Categories
-      url: /otras/categories
-      group: otras
-    - name: Tags
-      url: /otras/tags
-      group: otras
+
+- name: Fichajes
+  url: /fichajes
+  group: fichajes
+
 
 - name: Contact
   url: /contact

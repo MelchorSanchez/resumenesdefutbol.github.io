@@ -1,0 +1,40 @@
+---
+layout: page
+title: "Resumenes de Futbol: Categories"
+nav_item: blog
+nav_item_blog: categories
+is_tags_page: true
+include_comments:
+  count: true
+---
+
+{% include analytics.html %}
+{% include header.html %}
+
+{% comment %}
+  This is an ugly hack to sort a list based on the following idea:
+  http://stackoverflow.com/questions/1408824/an-easy-way-to-support-tags-in-a-jekyll-blog/21002505#21002505
+{% endcomment %}
+
+{% capture tags %}{% for tag in site.categories %}{{ category[0] }}|{% endfor %}{% endcapture %}
+{% assign sortedcaegories = categories | split:'|' | sort %}
+
+<div class="clearfix mxn1 mt3">
+  {% for category in sortedcategories %}
+    <div class="col px1 mb1">
+      <a href="#{{ tag }}" class="button button-narrow button-outline dark-gray h5">{{ category }} ({{ site.categories[category].size }})</a>
+    </div>
+  {% endfor %}
+</div>
+
+{% for tag in sortedcategories %}
+  <a name="{{ tag }}"></a>
+  <section class="mb4 mt4">
+    <h2 class="border-bottom border-light-gray mb3 pb1">{{ category }} <span class="gray">({{ site.categories[category].size }} posts)</span></h2>
+    {% for post in site.categories[category] %}
+      {% include post-outline.html post=post exclude_divider=forloop.last %}
+    {% endfor %}
+  </section>
+{% endfor %}
+
+{% include footer.html %}

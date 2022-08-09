@@ -26,6 +26,8 @@ exclude:
         - vendor/ruby/
 
 
-
+collections:
+        about:
+                output: true
 
 excerpt_separator: '<!-- excerpt-end -->'

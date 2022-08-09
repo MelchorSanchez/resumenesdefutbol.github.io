@@ -2,7 +2,7 @@
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Premier League</title>
+  <title>Blog</title>
   <link href="{{ site.url }}"/>
   <link type="application/atom+xml" rel="self" href="{{site.url}}/blog.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
