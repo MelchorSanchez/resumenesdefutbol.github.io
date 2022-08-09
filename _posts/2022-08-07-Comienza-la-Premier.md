@@ -1,12 +1,12 @@
 ---
 title: Arranca la Premier!
 layout: post
-group: premierleague
+group: blog
 comments: true
+embed: true
 author : Melchor Sanchez-Martinez
 date: 2022-08-07
-tags: [Jornada de Liga, Resumen, PremierLeague]
-categories: [PremierLeague]
+tags: [Jornada de Liga, PremierLeague]
 ---
 <!-- excerpt-start -->
 
