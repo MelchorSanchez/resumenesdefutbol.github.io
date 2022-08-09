@@ -1,5 +1,4 @@
 ---
-name: Melchor Sanchez
 image: /static/img/about/avatar.webp
 email: contact .at. resumenesdefutbol.com
 twitter: futbolresumen22

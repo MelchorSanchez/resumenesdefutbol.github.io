@@ -1,11 +1,8 @@
-{% capture post_title_element %}{% if include.post_title_element %}{{ include.post_title_element }}{% else %}h2{% endif %}{% endcapture %}
-<article class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-gray circle-line{% endunless %}">
+{% capture post_title_element %}{ include.post_title_element }{% endcapture %}
+<article class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-blue circle-line{% endunless %}">
   <div class="col sm-col-4 px2 mb2">
     <a href="{{ include.post.url }}" class="header-color link-hover-color">
-      {% if include.post.thumbnail_path %}
-        {% include image.html path=include.post.thumbnail_path alt=include.post.title %}
-      {% else %}
-        <div class="border border-light-gray h1 py4 px4 center">Aa</div>
+        <div class="border border-light-blue h1 py4 px4 center">Aa</div>
       {% endif %}
     </a>
   </div>
