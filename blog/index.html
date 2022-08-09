@@ -19,11 +19,11 @@ include_comments:
   <p class="author">
     {% if post.updated %}
       <span class="date"><em>{{ post.date | date_to_long_string }} - Last Updated {{ post.updated | date_to_long_string }}</em>
-      <div>{% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}</div>
+      {% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}
       </span>
     {% else %}
       <span class="date"><em>{{ post.date | date_to_long_string }}</em>
-        <div>{% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}</div>
+        {% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}
     {% endif %}
   </p>
 {% endfor %}
