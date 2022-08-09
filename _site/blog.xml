@@ -3,7 +3,7 @@
   <title>Blog</title>
   <link href="http://localhost:4000"/>
   <link type="application/atom+xml" rel="self" href="http://localhost:4000/blog.xml"/>
-  <updated>2022-08-09T23:40:01+02:00</updated>
+  <updated>2022-08-09T23:53:19+02:00</updated>
   <id>http://localhost:4000</id>
   <author>
     <name>Resumenes de Futbol</name>
