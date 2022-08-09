@@ -10,9 +10,6 @@
   url: /blog
   group: blog
   sublinks:
-    - name: Categories
-      url: /blog/categories
-      group: blog
     - name: Tags
       url: /blog/tags
       group: blog
