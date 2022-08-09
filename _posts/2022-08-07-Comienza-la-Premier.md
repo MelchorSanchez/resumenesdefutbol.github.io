@@ -8,7 +8,7 @@ author : Melchor Sanchez-Martinez
 date: 2022-08-07
 tags: [Jornada de Liga, PremierLeague]
 ---
-<img src="https://pbs.twimg.com/media/FZqFA41WYAMccUb?format=jpg&name=4096x4096" alt="Premier League Jornada 1" title="Martinelli gol" class="img-responsive center-block" style="max-width: 250px; width: 100%; margin-top: 10px; margin-bottom: 10px">
+<img src="https://pbs.twimg.com/media/FZqFA41WYAMccUb?format=jpg&name=4096x4096" alt="Premier League Jornada 1" title="Martinelli gol" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
 
 <!-- excerpt-start -->
 
@@ -18,6 +18,8 @@ Ha comenzado la premier league. La por muchos considerada mejor liga del mundo y
 
 <div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 249px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://twitter.com/PLforIndia/status/1555458165319561216?s=20&t=IVY09HFVhGXchxJKSPJVVQ"></iframe></div>
 
+
+<img src="https://twitter.com/PLforIndia/status/1555458165319561216?s=20&t=IVY09HFVhGXchxJKSPJVVQ" alt="Premier League Jornada 1" title="Martinelli gol" class="img-responsive center-block" style="max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px">
 
 Y en busca de profundidad, con compromiso defensivo, es por lo que el [Chelsea ha fichado a Marc Cucurella](https://www.fichajes.com/a3429421176778019810-el-chelsea-confirma-el-fichaje-de-marc-cucurella) por casi 70 millones de euros. En el Barcelona se estarán tirando de los pelos después de haberlo [vendido al Getafe por 7 veces menos](https://www.marca.com/futbol/getafe/2020/06/30/5efb0a1eca474174648b457c.html) de lo que pago el Chelsea, mas el 10 % de una futura venta que finalmente supusieron 1.8 kilos tras la venta del lateral al Brighton el pasado verano. Un Barcelona que todavía anda buscando un recambio de garantías a Jordi Alba. Un recambio que parece no será Alejandro Balde a pesar de su buena gira americana y que tampoco fueron Juan Miranda o Grimaldo, por cierto triunfando en Betis y Benfica, pero que puede ser un futbolista que venga del Chelsea como Marcos Alonso. El español lleva sonando todo el verano para reforzar el lateral azulgrana al igual que Azpilicueta, pero el navarro ante la negativa de Tuchel a desprenderse de el y viendo que el comienzo de la premier era inminente decidió [renovar por el conjunto blue](https://www.fichajes.com/a3949268892738199350-chelsea-cesar-azpilicueta-renueva-hasta-2024).
 
