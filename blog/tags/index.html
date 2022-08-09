@@ -22,7 +22,7 @@ include_comments:
 <div class="clearfix mxn1 mt3">
   {% for tag in sortedtags %}
     <div class="col px1 mb1">
-      <button href="#{{ tag }}"  style="background-color:lightsteelblue; color:black; border:3px solid light-gray; border-radius: 8px" class="button button-narrow button-outline dark-gray h5">{{ tag }} ({{ site.tags[tag].size }})</button>
+      <a href="#{{ tag }}" class="button button-narrow button-outline dark-gray h5" style="background-color:lightsteelblue; color:black; border:2px solid steelblue; border-radius: 8px; text-align: center; ">&nbsp {{ tag }} ({{ site.tags[tag].size }}) &nbsp</a><p></p>
     </div>
   {% endfor %}
 </div>
@@ -30,7 +30,7 @@ include_comments:
 {% for tag in sortedtags %}
   <a name="{{ tag }}"></a>
   <section class="mb4 mt4">
-    <h2 class="border-bottom border-light-gray mb3 pb1">{{ tag }} <span class="gray">({{ site.tags[tag].size }} posts)</span></h2>
+    <u><h4 class="border-bottom border-light-gray mb3 pb1" style="color:olive;">{{ tag }} <span class="gray">({{ site.tags[tag].size }} posts)</span></h4></u>
     {% for post in site.tags[tag] %}
       {% include post-outline.html post=post exclude_divider=forloop.last %}
     {% endfor %}

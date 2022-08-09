@@ -14,7 +14,6 @@ include_comments:
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 <div class="row">
-<div class="col-sm-8 lead">
   <p class="author">
     {% if post.updated %}
     {% include post-outline.html post=post last_update=post.update exclude_divider=forloop.last %}
@@ -22,8 +21,8 @@ include_comments:
       {% include post-outline.html post=post exclude_divider=forloop.last %}
     {% endif %}
   </p>
+</div>
 {% endfor %}
-
 <!-- This makes links to other paginator pages -->
 {% if paginator.total_pages > 1 %}
 <ul class="pagination">
