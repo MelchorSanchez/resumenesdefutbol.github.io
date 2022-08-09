@@ -18,11 +18,8 @@ include_comments:
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
     {% if post.updated %}
-      <span class="date"><em>{{ post.date | date_to_long_string }} - Last Updated {{ post.updated | date_to_long_string }}</em>
-      {% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}
-      </span>
+      {% include post-metadata.html post=page last_updated=post.updated time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}
     {% else %}
-      <span class="date"><em>{{ post.date | date_to_long_string }}</em>
         {% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}
     {% endif %}
   </p>
