@@ -1,9 +1,9 @@
 ---
 title: Segunda parte de la Jornada 1 de la Premier League!
+subtitle:
 layout: post
 group: blog
 comments: true
-embed: true
 author : Melchor Sanchez-Martinez
 date: 2022-08-08
 tags: [Jornada de Liga, PremierLeague]

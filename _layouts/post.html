@@ -7,6 +7,7 @@
         {% if page.subtitle %}<h3 style="font-style:italic;color:steelblue">{{ page.subtitle }}</h3>{% endif %}
         <p><span class="author" style = "color:lightsteelblue">{{ page.author }}</span><br>
         <span class="date" style = "color:lightsteelblue"><em>{{ page.date | date_to_long_string }}</em></span></p>
+        {% include post-metadata.html post=include.post %}
         <br>
         {{ content }}
     </div>
@@ -19,4 +20,4 @@
 <img alt = "Hit counter" src = "contador.php" /><br> -->
 
 {% include footer.html %}
-{% include disqus-script.html %}
+{% include disqus.html %}

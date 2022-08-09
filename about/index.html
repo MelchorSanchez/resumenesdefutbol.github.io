@@ -9,13 +9,13 @@ group: about
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
             <div class="col-sm-4">
-                <img class="img-responsive max-width:100%; height:auto" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"><br>
+                <img class="img-responsive max-width:80; height:80" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"><br>
                 <strong>{{member.name}}</strong> <br>
                 <a href="mailto:contact .at. resumenesdefutbol.com"><img class="inline-block mem-icon" src="/static/img/logos/mail.webp" width="25" height="20"></a>
                 <em>{{member.email}}</em> <br>
                 {% if member.instagram %}
                   <a href="http://instagram.com"><img class="inline-block mem-icon" src="/static/img/logos/insta_logo.webp" width="25" height="25"></a>
-                  <a href="http://instagram.com/{{member.instagram}}"> {{instagram.com}}</a> <br>
+                  <a href="http://instagram.com/{{member.instagram}}"> {{member.instagram}}</a> <br>
                 {% endif %}
                 {% if member.twitter %}
                   <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logos/twitter_logo.webp" width="25" height="25"></a>
