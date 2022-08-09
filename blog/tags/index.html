@@ -22,7 +22,7 @@ include_comments:
 <div class="clearfix mxn1 mt3">
   {% for tag in sortedtags %}
     <div class="col px1 mb1">
-      <a href="#{{ tag }}" class="button button-narrow button-outline dark-gray h5">{{ tag }} ({{ site.tags[tag].size }})</a>
+      <button href="#{{ tag }}"  style="background-color:lightsteelblue; color:black; border:3px solid light-gray; border-radius: 8px" class="button button-narrow button-outline dark-gray h5">{{ tag }} ({{ site.tags[tag].size }})</button>
     </div>
   {% endfor %}
 </div>
