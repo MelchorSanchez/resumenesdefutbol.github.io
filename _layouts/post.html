@@ -5,8 +5,9 @@
     <div class="col-sm-12 col-md-12 col-xs-12">
         <div class = "page header" style= "color:steelblue"><h1>{{ page.title }}</h1></div>
         {% if page.subtitle %}<h3 style="font-style:italic;color:steelblue">{{ page.subtitle }}</h3>{% endif %}
-        <p><span class="author" style = "color:lightsteelblue">{{ page.author }}</span><br>
-        <span class="date" style = "color:lightsteelblue"><em>{{ page.date | date_to_long_string }}</em></span></p>
+        <!--<p><span class="author" style = "color:lightsteelblue">{{ page.author }}</span><br>
+        <span class="date" style = "color:lightsteelblue"><em>{{ page.date | date_to_long_string }}</em></span></p> -->
+        <div>{% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}</div>
         <br>
         {{ content }}
     </div>
