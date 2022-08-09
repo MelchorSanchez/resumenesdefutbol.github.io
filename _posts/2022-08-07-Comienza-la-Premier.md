@@ -35,9 +35,11 @@ En el día de ayer también comenzó a andar el nuevo proyecto del Leeds con Jes
 
 
 
-<p></p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🔺 Ben Pearson <br>🔺 Ryan Christie <br>🔺 Kieffer Moore <br>🔺 Jordan Zemura <br>🔺 Marcus Tavernier <br><br>Five <a href="https://twitter.com/premierleague?ref_src=twsrc%5Etfw">@premierleague</a> debuts out there yesterday 💫 <a href="https://t.co/8NNbtvic3f">pic.twitter.com/8NNbtvic3f</a></p>&mdash; AFC Bournemouth 🍒 (@afcbournemouth) <a href="https://twitter.com/afcbournemouth/status/1556224883893338112?ref_src=twsrc%5Etfw">August 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p></p>
+<div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 249px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://twitter.com/premierleague?ref_src=twsrc%5Etfw"></iframe></div>
+
+
+
+
 
 
 
