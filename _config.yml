@@ -5,7 +5,7 @@ logo: 'avatar.png'
 
 plugins: [jekyll-paginate, jekyll-seo-tag]
 paginate: 5
-paginate_path: "premier-league/page:num"
+paginate_path: "blog/page:num"
 
 permalink: pretty
 highlighter: rouge
