@@ -7,6 +7,7 @@ comments: true
 author : Melchor Sanchez-Martinez
 date: 2022-08-08
 tags: [Jornada de Liga, PremierLeague]
+image: /static/img/thumbs/premier.webp
 ---
 
 <img src="https://pbs.twimg.com/profile_banners/343627165/1659976320/1500x500" alt="Premier League Jornada 1" title="Erwing Haaland gol" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
