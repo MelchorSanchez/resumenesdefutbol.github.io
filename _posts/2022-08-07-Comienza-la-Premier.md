@@ -7,6 +7,7 @@ comments: true
 author : Melchor Sanchez-Martinez
 date: 2022-08-07
 tags: [Jornada de Liga, PremierLeague]
+image: /static/img/thumbs/premier.webp
 ---
 <img src="https://pbs.twimg.com/media/FZqFA41WYAMccUb?format=jpg&name=4096x4096" alt="Premier League Jornada 1" title="Martinelli gol" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
 
