@@ -25,7 +25,7 @@ image: /static/img/thumbs/premier.webp
 <p>Ya en 2021, el 1 de febrero concretamente, el [Brighton anunció su fichaje](https://www.skysports.com/football/news/11741/12183565/moises-caicedo-brighton-sign-ecuador-international-on-deadline-day) asegurándose así una de las grande promesas del futbol sudamericano. Esa temporada con los seagulls alternó el primer equipo con el conjunto sub23, disputando solo 3 encuentros con los mayores. La temporada siguiente, la 21-22, salió [cedido a la liga belga](https://www.elcomercio.com/deportes/futbol/el-brighton-confirma-la-cesion-de-moises-caicedo-al-beerschot-de-belgica.html), al Beerschot concretamente, para tener más minutos y ganar experiencia el el fútbol europeo. La temporda anterior había tenido pocos minutos, y con Bissouma en el equipo parecía que iba a seguir teniendo pocas oportunidades.</p>
 
 <br/>
-<div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
+<div style="text-align:center"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/OfficialBHAFC/status/1432825537181925380?ref_src=twsrc%5Etfw"></iframe></div>
 <br/>
 
