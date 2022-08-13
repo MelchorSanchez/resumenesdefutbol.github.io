@@ -5,7 +5,7 @@ layout: post
 group: blog
 comments: true
 author : Melchor Sanchez-Martinez
-date: 2022-08-11
+date: 2022-08-13
 tags: [Quien es, LaLiga, Osasuna]
 image: /static/img/thumbs/premier.webp
 ---
