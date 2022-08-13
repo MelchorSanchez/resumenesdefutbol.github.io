@@ -17,6 +17,8 @@ image: /static/img/thumbs/premier.webp
 
 <p>El jugador formado en Independiente del Valle llego a debutar en la Copa Libertadores [marcando su primer gol en la competición el 11 de Marzo de 2020](https://www.benditofutbol.com/independiente-del-valle/independiente-junior-libertadores-grupoa.html) contra el junior de Barranquilla cuando contaba con tan solo 18 años, antes de dar el salto a Europa de la mano del Brighton. Ese mismo año en Octubre, todavía con 18 años, [debuto oficalmente con la seleccion de Ecuador](https://www.primicias.ec/noticias/jugada/ecuador-convocados-gustavo-alfaro-argentina-uruguay/) de la cual es asiduo desde entonces y con la que jugará el próximo mundial de Catar.</p>
 
+ <!-- excerpt-end --> 
+
 <br/>
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/LaTri/status/1491487068903526400"></iframe></div>
