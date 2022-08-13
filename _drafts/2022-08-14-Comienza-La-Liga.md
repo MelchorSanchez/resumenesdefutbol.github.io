@@ -1,19 +1,19 @@
 ---
-title: Arranca la Premier!
+title: Arranca La Liga Santander!
 subtitle:
 layout: post
 group: blog
 comments: true
 author : Melchor Sanchez-Martinez
-date: 2022-08-07
-tags: [Jornada de Liga, PremierLeague]
+date: 2022-08-14
+tags: [Jornada de Liga, La Liga]
 image: /static/img/thumbs/premier.webp
 ---
-<img src="https://pbs.twimg.com/media/FZqFA41WYAMccUb?format=jpg&name=4096x4096" alt="Premier League Jornada 1" title="Martinelli gol" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
+<img src="https://pbs.twimg.com/media/FZ-8sbhX0AAajAc?format=jpg&name=medium" alt="La Liga Jornada 1" title="Osasuna primer gol" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
 
 <!-- excerpt-start -->
 
-Ha comenzado la premier league. La por muchos considerada mejor liga del mundo y desde luego no es para menos. La competición que mas gasta en fichajes y en la que debido al estilo de juego, debido a un reparto más equitativo de los derechos de televisión o a la presencia de grandes fortunas como dueños de los clubes cualquier partido es entretenido. <!-- excerpt-end --> Box to box que dicen los ingleses, futbol vertical ataque a tumba abierta y siempre, aunque no haya goles, muchas ocasiones e intercambio de golpes. Es cierto que hay equipos que les gusta la posesión como al City de Guardiola, pero no es menos cierto que el tiki taka del Barcelona de Pep no es el mismo del City que juega más vertical buscando profundidad por lo extremos.
+Ha comenzado la liga santander! Todos los aficionados españoles estaban deseosos del quel balon comenzará a rodar en este año atípico en el que el mundial de Catar ha obligado a odificar el tradicional claendario comenzando antes de lo habitual y con una carga de partidos entre semana más alta de lo normal. El primer partido de la temporada fur el Osasuna-Sevilla. Un encuentro muy disputado con alternativas para los dos equipos en el que se impuso el cuadro local con cierta polemica ya que el gol del triunfo vino de un penalti o "penaltito" como dirian muchos. Se habia hablado en las semanas pevias de que este tipo de acciones no se sancionarían pero del dicho al hecho hay un trecho y al fi nal la interpretación de cada colegiado sobre que es o no es un "penaltito" varia. Sea como fuer los locales se impusieron con goles del Chimy Avila en el minuto 9 y el joven canterano Aimar Oroz en el 74. Por pate visitante Rafa Mir marco en el minuto 11. En Osasuna debutaron los fichajes Moi Gomez y Ruben Peá así como Manu Sanchez que vuev cedido una temporada más por el Atletico de Madrid. También debutó el canterano Pablo Ibañéz. 
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/PLforIndia/status/1555458165319561216?s=20&t=IVY09HFVhGXchxJKSPJVVQ"></iframe></div>
