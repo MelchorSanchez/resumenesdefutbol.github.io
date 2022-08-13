@@ -26,7 +26,7 @@ Uno de los tres goleadores sin duda es el menos conocido ya que Aimar, nacido el
 
 <br/>
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
- src="ttps://twitframe.com/show?url=https://twitter.com/CAOsasuna/status/1558208598148268033"></iframe></div>
+ src="https://twitframe.com/show?url=https://twitter.com/CAOsasuna/status/1558208598148268033"></iframe></div>
 <br/>
 
 <p>Esta temporada 22/23 parace que ya va estar en dinámica de primer equipo de forma permanente. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ayer tiene muchas probabilidades de ser un jugador importante para este [Osasuna](https://www.osasuna.es) que año tras año se nutre de la cantera para dar forma a sus proyectos<p>
