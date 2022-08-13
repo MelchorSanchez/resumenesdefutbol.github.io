@@ -13,10 +13,10 @@ image: /static/img/thumbs/premier.webp
 
 <!-- excerpt-start -->
 
-<p>Ha comenzado La Liga con un disputado partido entree Sevilla y Osasuna que se llevo el equipo pamplonica por 2-1. Losgoles los amrcaron el [Chimy Avila](https://es.wikipedia.org/wiki/Ezequiel_%C3%81vila) y [Aimar Oroz](https://www.osasuna.es/jugador/aimar), por parte rojilla, y [Rafa Mir](https://en.wikipedia.org/wiki/Rafa_Mir) por los sevillistas.
+<p>Ha comenzado La Liga con un disputado partido entree Sevilla y Osasuna que se llevo el equipo pamplonica por 2-1. Los goles los marcaron el [Chimy Avila](https://es.wikipedia.org/wiki/Ezequiel_%C3%81vila) y [Aimar Oroz](https://www.osasuna.es/jugador/aimar), por parte rojilla, y [Rafa Mir](https://en.wikipedia.org/wiki/Rafa_Mir) por los sevillistas.</p>
 
 
-Uno de los tres goleadores sin duda es el menos conocido ya que Aimar, nacido el 27 de noviembre del 2001 en Pamplona, disputo su primer partido como titular en la liga santander. Y para mas inri con el equipo de su tierra del que es segudior desde niño y canterano. Además marcando un gol.  <!-- excerpt-end --></p>
+<p>Uno de los tres goleadores sin duda es el menos conocido ya que Aimar, nacido el 27 de noviembre del 2001 en Pamplona, disputo su primer partido como titular en la liga santander. Y para mas inri con el equipo de su tierra del que es segudior desde niño y canterano. Además marcando un gol.  <!-- excerpt-end --></p>
 
 <p> Este espigado centrocampista de la [camada del 2001](https://www.transfermarkt.es/spieler-statistik/wertvollstespieler/marktwertetop/mw/jahrgang/2001),la misma de la que han salido otras promesas incipientes como [Moises Caicedo](https://resumenesdefutbol.com/2022/08/11/moises-caicedo/) o el madridista [Rodrygo](https://www.transfermarkt.es/rodrygo/profil/spieler/412363), ya había [debutado con primer equipo](https://www.diariodenavarra.es/noticias/navarra/2019/06/07/debut-osasuna-entre-libros-654004-300.html) en el año 2019 en el Nuvo Arcangel contra el Córdoba cuando contaba con tan solo 17 años y el club estaba en segunda división. Un Osasuna ya ascendido de forma matemática a primera divsión, certificó el [título liguero](https://www.marca.com/futbol/segunda-division/cronica/2019/05/31/5cf18bce268e3e466a8b45a4.html) en ese encuentro.</p>
 
