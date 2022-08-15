@@ -3,13 +3,106 @@
   <title>Blog</title>
   <link href="http://localhost:4000"/>
   <link type="application/atom+xml" rel="self" href="http://localhost:4000/blog.xml"/>
-  <updated>2022-08-12T08:25:19+02:00</updated>
+  <updated>2022-08-15T11:19:55+02:00</updated>
   <id>http://localhost:4000</id>
   <author>
     <name>Resumenes de Futbol</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/14/Comienza-La-Liga</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/14/Comienza-La-Liga/"/>
+    <title>Arranca La Liga Santander!</title>
+    <subtitle></subtitle>s
+    <published>2022-08-14T00:00:00+02:00</published>
+    <updated>2022-08-14T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/14/Comienza-La-Liga/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FZ-8sbhX0AAajAc?format=jpg&amp;amp;name=medium&quot; alt=&quot;La Liga Jornada 1&quot; title=&quot;Osasuna primer gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Ha comenzado la liga santander! Todos los aficionados españoles estaban deseosos del que el balon comenzará a rodar en este año atípico en el que el mundial de Catar ha obligado a modificar el tradicional claendario comenzando antes de lo habitual y con una carga de partidos entre semana más alta de lo normal. El primer partido de la temporada fur el Osasuna-Sevilla. Un encuentro muy disputado con alternativas para los dos equipos en el que se impuso el cuadro local con cierta polemica ya que el gol del triunfo vino de un penalti o “penaltito” como dirian muchos. Se habia hablado en las semanas pevias de que este tipo de acciones no se sancionarían pero del dicho al hecho hay un trecho y al final la interpretación de cada colegiado sobre que es o no es un “penaltito” varia. Sea como fuere los locales se impusieron por &lt;a href=&quot;https://www.youtube.com/watch?v=L_qyTcpMVCI&quot;&gt;2-1&lt;/a&gt; con goles del Chimy Avila en el minuto 9 y el joven canterano &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/13/aimar-oroz/&quot;&gt;Aimar Oroz&lt;/a&gt; en el 74. Por pate visitante Rafa Mir marco en el minuto 11. En Osasuna debutaron los fichajes Moi Gomez y Ruben Peña así como Manu Sanchez que vuelve cedido una temporada más por el Atletico de Madrid. También debutó el canterano Pablo Ibañéz. Aitor Fernandez deberá espera a otra ocasión. Por parte del Sevilla solo debutó Alex Telles en el segundo tiempo. Marcao e Isco deberán esperar.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/CAOsasuna/status/1558220312340320256)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;En la tarde del sabado Celta y Espanyol se vieron las caras en un partido muy entretendo con alternativas por partes de los dos equipos que termino con &lt;a href=&quot;https://www.youtube.com/watch?v=W-2oIQrwV-4&amp;amp;feature=onebox&quot;&gt;empate a 2&lt;/a&gt;. Iago Aspas, quien sino, y el recien fichado delantero portugues Paciencia hicieron los goles celestes mientras que por el equipo catalan fueron los tambien recien fichados Edu exposito y Joselu quienes marcaron los tantos. El de Joselu de penalti polémico al final del partido. Hubo muchas protestas por parte de los jugadores vigueses pero finalmente el penalti se pito y Marchesin, que tambien debutaba en el dia de ayer, no pudo pararlo. Por parte del cuadro gallego además de los ya mencionados debutaron Unai Nuñez, Mingueza, Oscar Rodriguez y Carles Perez. De la Torre y Swedberg deberán esperar a una próxima ocasión. Por parte de los pericos debutaron Lecompte en porteria, Vinicius Souza y Brian Olivan.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;650&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/gpaciencia9/status/1558541336931885058)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Valladolid y Villareal protagonizaron el otro partido de la tarde del sabado donde los groguets se impusieron por &lt;a href=&quot;https://www.youtube.com/watch?v=G5fKDU7PjoQ&amp;amp;feature=onebox&quot;&gt;0-3&lt;/a&gt;. Un gol de Jackson en el 49 y dos del joven Alex Baen que volvia tras cesion en el Girona decantaron el partdio del lado amarillo. Por cierto, &lt;a href=&quot;https://www.youtube.com/watch?v=gvFIKae_aZc&quot;&gt;vaya golazo el segundo de Baena&lt;/a&gt;. El partido en líneas generales estuvo muy disputado e incluso el Valladolid fue superior en cuanto a tiros a puerta o posesión pero el triunfo fue visitante que se mostró más efectivo. En el Villareal debutó el comandante Morales y por el Valladolid el guardameta, ex del Villareal, Sergio Asenjo e Ivan Sanchez que ha llegado procedente del Birmingham. Con los pucelanos también re-debutaron Olaza y Gassama que regresaban tras cesión.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/CanteraGrogueta/status/1558867775640182788)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;El utlimo partido del sábado lo protagonizaron Barcelona y Rayo Vallecano. Los cules partían como favoritos con la ilusión por las nubes tras los numerosos fichajes y volver a tener un equipo que a priori puede aspirar a todo. Sin embargo les faltó efectividad. Dominaron el partido, aunque el rayo tuvo sus ocasiones, pero no remacharon. Hubo un gol anulado a Lewandoski y otro a Falcao por sendos fueras de juego bien pitados por el colegiado. Al final &lt;a href=&quot;https://www.youtube.com/watch?v=oQEjM-JJ0yA&amp;amp;feature=onebox&quot;&gt;0-0&lt;/a&gt;. Hubo muchas criticas por el juego del rayo con faltas y parones constantes que al final desestabilizaron a más de uno y Busquets fué expulsado por tercera vez en su carrera. Al futbol se puede jugar de muchas formas y todas son lícitas gusten más o menos.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;650&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/BarcaUniversal/status/1558725844830507008/photo/1)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;El domingo arracó con un Cadiz - Real Sociedad donde  los visitantes ganaron por &lt;a href=&quot;https://www.youtube.com/watch?v=3TLiBMF7GTs&amp;amp;feature=onebox&quot;&gt;0-1&lt;/a&gt; agravando los problemas que viven los amarillos con un verano movido por malos resultados y falta de fichajes. Los donostiarras hicieron un aprtido serio que dominaron de rincipio a fin y ganaron con un gol de Kubo a pase de Mikel Merino mediada la primera parte. En la Realdebutaron todos los fichajes: Kubo, Mendez y Ali-Cho. Los dos primeros como titulares. Por el Cadiz lo hicieron Zaldua, como titular, y Mabil.&lt;/p&gt;
+
+&lt;p&gt;Valencia y Girona tomaron el testigo a las 19:30 del domingo con un partido entretenido y dinámico que se llevaron los che por &lt;a href=&quot;https://www.youtube.com/watch?v=IveDcHrfv0Q&amp;amp;feature=onebox&quot;&gt;1-0&lt;/a&gt;. Los valencianistas dominaron el partido, tuvieron más ocasiones y daban la sensación de tenerlo bajo control. El gol llego por un penalti que transformó Carlos Soler. Recien comenzada la segunda parte el Valencia se quedo con un hombre menos tras una dura entrada de Cömert pero supo aguantar el resultado y lograr la victoria final.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/LaLiga/status/1558885427548938246?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1558885427548938246%7Ctwgr%5E1558ecf622fa78e3fb8fc5302d76441b68f90172%7Ctwcon%5Es1_&amp;amp;ref_url=https%3A%2F%2Fwww.epe.es%2Fes%2Fdeportes%2F20220814%2Fpenalti-dio-puntos-valencia-inferioridad-14282202)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Para terminar el fin de semana Almeria - Real Madrid.  Un ALmeria muy ordenado que se adelnato con un tempranero gol de Ramazani en el minuto 6. La segunda vez en la historia de la liga que un jugador belga marca a un protero belga, laprimera fue el Osasunista Lamah a Courtois cuando estaba en el Atleti. Volviendo al partido,el Madrid lo intento de todas las maneras pero el choque se marcho al descanso con victoria almeriense. Ya en el segundo tiempo la insistencia blanca dio sus frutos y con goles de Lucas Vazquez primero y David Alaba de falta después, los blancos pusieron el &lt;a href=&quot;https://www.youtube.com/watch?v=I-dGUYSnTU8&amp;amp;feature=onebox&quot;&gt;1-2&lt;/a&gt; definitivo en el electrónico. Partido trabajado por parte del Madrid que fue justo vencedor ya que domino el partdo de principio a fin. En el madrid debuto Tchouaméni y Rüdiger. En el ALmeria lo hizo solament Kakiky Fernandes. El resto de fichajes deberán esperar. &lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/QwasiBerry/status/1559090681456590853)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?q=la+liga&amp;amp;rlz=1C1CHBD_esES802ES802&amp;amp;biw=1885&amp;amp;bih=1079&amp;amp;ei=Snv3YsDcGKeMlwT06qzIDg&amp;amp;ved=0ahUKEwjAqZCozMP5AhUnxoUKHXQ1C-kQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=la+liga&amp;amp;gs_lcp=Cgdnd3Mtd2l6EAMyCAguENQCEJECMgQIABBDMggILhDUAhCRAjIECAAQQzIFCC4QkQIyBQgAEJECMgUIABCRAjIECAAQQzIFCAAQgAQyBQgAEIAEOgQILhBDOgcILhDUAhBDOgUILhCABDoICC4QgAQQ1AI6CwguEIAEEMcBENEDOgsILhCABBDHARCvAUoECEEYAEoECEYYAFAAWO0FYP4GaABwAXgAgAHiAYgB3QeSAQUwLjYuMZgBAKABAcABAQ&amp;amp;sclient=gws-wiz#sie=lg;/g/11sqj24s0_;2;/m/09gqx;mt;fp;1;;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/13/aimar-oroz</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/13/aimar-oroz/"/>
+    <title>Quién es... Aimar Oroz</title>
+    <subtitle></subtitle>s
+    <published>2022-08-13T00:00:00+02:00</published>
+    <updated>2022-08-13T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/13/aimar-oroz/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://estaticosgn-cdn.deia.eus/clip/1da310bd-e874-4762-bcb2-963de2a125bb_16-9-discover-aspect-ratio_default_0.jpg&quot; alt=&quot;Aimar Oroz. Image from Diario Deia&quot; title=&quot;Aimar Ooroz Gol Sevilla Jornada1&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Ha comenzado La Liga con un disputado partido entree Sevilla y Osasuna que se llevo el equipo pamplonica por 2-1. Los goles los marcaron el &lt;a href=&quot;https://es.wikipedia.org/wiki/Ezequiel_%C3%81vila&quot;&gt;Chimy Avila&lt;/a&gt; y &lt;a href=&quot;https://www.osasuna.es/jugador/aimar&quot;&gt;Aimar Oroz&lt;/a&gt;, por parte rojilla, y &lt;a href=&quot;https://en.wikipedia.org/wiki/Rafa_Mir&quot;&gt;Rafa Mir&lt;/a&gt; por los sevillistas.&lt;/p&gt;
+
+&lt;p&gt;Uno de los tres goleadores sin duda es el menos conocido ya que Aimar, nacido el 27 de noviembre del 2001 en Pamplona, disputo su primer partido como titular en la liga santander. Y para mas inri con el equipo de su tierra del que es segudior desde niño y canterano. Además marcando un gol.  &lt;!-- excerpt-end --&gt;&lt;/p&gt;
+
+&lt;p&gt; Este espigado centrocampista de la &lt;a href=&quot;https://www.transfermarkt.es/spieler-statistik/wertvollstespieler/marktwertetop/mw/jahrgang/2001&quot;&gt;camada del 2001&lt;/a&gt;,la misma de la que han salido otras promesas incipientes como &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/11/moises-caicedo/&quot;&gt;Moises Caicedo&lt;/a&gt; o el madridista &lt;a href=&quot;https://www.transfermarkt.es/rodrygo/profil/spieler/412363&quot;&gt;Rodrygo&lt;/a&gt;, ya había &lt;a href=&quot;https://www.diariodenavarra.es/noticias/navarra/2019/06/07/debut-osasuna-entre-libros-654004-300.html&quot;&gt;debutado con primer equipo&lt;/a&gt; en el año 2019 en el Nuvo Arcangel contra el Córdoba cuando contaba con tan solo 17 años y el club estaba en segunda división. Un Osasuna ya ascendido de forma matemática a primera divsión, certificó el &lt;a href=&quot;https://www.marca.com/futbol/segunda-division/cronica/2019/05/31/5cf18bce268e3e466a8b45a4.html&quot;&gt;título liguero&lt;/a&gt; en ese encuentro.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.diariodenavarra.es/uploads/2019/06/06/60b19d03b5739.jpeg&quot; alt=&quot;Aimar Oroz debut. Image from Diario de Navarra&quot; title=&quot;Aimar Ooroz Gol Sevilla Jornada1&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las temporadas siguientes a este debut, continuó con su progresión en el Promesas, equipo filial del &lt;a href=&quot;https://www.osasuna.es&quot;&gt;CA Osasuna&lt;/a&gt;, donde la pasada campaña fue una de las referencias para lograr el &lt;a href=&quot;https://www.osasuna.es/noticia/osasuna-promesas-vence-al-izarra-y-asciende-a-primera-rfef-2-1#:~:text=Osasuna%20Promesas%20logr%C3%B3%20el%20ascenso,grupo%20II%20de%20Segunda%20RFEF.&quot;&gt;ascenso a Primera RFEF&lt;/a&gt;. Mientras estaba en el promesas hizo su &lt;a href=&quot;https://www.marca.com/futbol/primera-division/cronica/2020/07/19/5f14970ae2704ef9958b457d.html&quot;&gt;debut en primera división&lt;/a&gt; en julio de 2020, en el último partido de la temporada.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/CAOsasuna/status/1558208598148268033&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esta temporada 22/23 parace que ya va estar en dinámica de primer equipo de forma permanente tras &lt;a href=&quot;https://www.osasuna.es/noticia/osasuna-renueva-a-aimar-oroz-hasta-el-2026&quot;&gt;renovar su contrato&lt;/a&gt; el pasado junio hasta 2026. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ayer tiene muchas probabilidades de ser un jugador importante para este &lt;a href=&quot;https://www.osasuna.es&quot;&gt;Osasuna&lt;/a&gt; que año tras año se nutre de la cantera para dar forma a sus proyectos.&amp;lt;p&amp;gt;
+&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://localhost:4000/2022/08/11/moises-caicedo</id>
@@ -29,6 +122,8 @@
 &lt;p&gt;Ha comenzado la premier league y ya tenemos los primeros nombres propios. Uno de ellos es el del joven jugador ecuatoriano &lt;a href=&quot;https://es.wikipedia.org/wiki/Mois%C3%A9s_Caicedo&quot;&gt;Moises Caicedo&lt;/a&gt;. El joven centrocampista nacido en 2001 fue una de las sensaciones del gran partido de los seagulls contra el Manchester United.&lt;/p&gt;
 
 &lt;p&gt;El jugador formado en Independiente del Valle llego a debutar en la Copa Libertadores &lt;a href=&quot;https://www.benditofutbol.com/independiente-del-valle/independiente-junior-libertadores-grupoa.html&quot;&gt;marcando su primer gol en la competición el 11 de Marzo de 2020&lt;/a&gt; contra el junior de Barranquilla cuando contaba con tan solo 18 años, antes de dar el salto a Europa de la mano del Brighton. Ese mismo año en Octubre, todavía con 18 años, &lt;a href=&quot;https://www.primicias.ec/noticias/jugada/ecuador-convocados-gustavo-alfaro-argentina-uruguay/&quot;&gt;debuto oficalmente con la seleccion de Ecuador&lt;/a&gt; de la cual es asiduo desde entonces y con la que jugará el próximo mundial de Catar.&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- excerpt-end --&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align:center;&quot;&gt;
