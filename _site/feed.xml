@@ -1,28 +1,4 @@
-<?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog</title>
-  <link href="http://localhost:4000"/>
-  <link type="application/atom+xml" rel="self" href="http://localhost:4000/blog.xml"/>
-  <updated>2022-08-15T16:11:44+02:00</updated>
-  <id>http://localhost:4000</id>
-  <author>
-    <name>Resumenes de Futbol</name>
-    <!-- <email>you@example.com</email> -->
-  </author>
-
-  
-  <entry>
-    <id>http://localhost:4000/2022/08/15/alex-baena</id>
-    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/15/alex-baena/"/>
-    <title>Quién es... Alex Baena</title>
-    <subtitle></subtitle>s
-    <published>2022-08-15T00:00:00+02:00</published>
-    <updated>2022-08-15T00:00:00+02:00</updated>
-    <author>
-      <name>Melchor Sanchez-Martinez</name>
-      <uri>/2022/08/15/alex-baena/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img.asmedia.epimg.net/resizer/UV2uHVu98UpNXKaT4ofE4wRqEGM=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/GPUBCHRNG4CFHOCYHEHZFMMGHQ.jpg&quot; alt=&quot;Alex Baena. Image from Diario As&quot; title=&quot;Alex Baena Villareal&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-15T16:11:44+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumenes de Futbol</title><subtitle>Resumenes de Futbol. Informacion actualizada sobre la premier league, la liga y otras competiciones. Resumenes de las ultimas jornadas, fichajes, quien es quien , curiosidades, y más!</subtitle><entry><title type="html">Quién es… Alex Baena</title><link href="http://localhost:4000/2022/08/15/alex-baena/" rel="alternate" type="text/html" title="Quién es… Alex Baena" /><published>2022-08-15T00:00:00+02:00</published><updated>2022-08-15T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/15/alex-baena</id><content type="html" xml:base="http://localhost:4000/2022/08/15/alex-baena/">&lt;p&gt;&lt;img src=&quot;https://img.asmedia.epimg.net/resizer/UV2uHVu98UpNXKaT4ofE4wRqEGM=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/GPUBCHRNG4CFHOCYHEHZFMMGHQ.jpg&quot; alt=&quot;Alex Baena. Image from Diario As&quot; title=&quot;Alex Baena Villareal&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- excerpt-start --&gt;
 
@@ -39,22 +15,7 @@
 &lt;p&gt;&lt;img src=&quot;https://img.asmedia.epimg.net/resizer/6RLcwitHrAKLBwxYnpOFKfP6hFM=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/W5WEVI4LPNHANBCSSOZ2CZ7PEA.jpg&quot; alt=&quot;Girona ascenso Tenerfie. Image from diario As&quot; title=&quot;Gol Baena 1-3 girona asciende&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cabe destacar que a nivel internacional ha jugado en todas las categorias inferiores de la seleccion española desde la sub 16 hasta la sub 21- Esta temporada 22/23 parace que ya va estar en dinámica de primer equipo de forma permanente ya que su presencia fue una de las causas de la &lt;a href=&quot;https://as.com/futbol/baena-pone-a-moi-gomez-en-la-rampa-de-salida-n/&quot;&gt;salida de Moi Gomez del equipo&lt;/a&gt; rumbo a Osasuna. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ante el Valladolid tiene muchas probabilidades de ser un jugador importante para este Villareal.&amp;lt;p&amp;gt;
-&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://localhost:4000/2022/08/14/Comienza-La-Liga</id>
-    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/14/Comienza-La-Liga/"/>
-    <title>Arranca La Liga Santander!</title>
-    <subtitle></subtitle>s
-    <published>2022-08-14T00:00:00+02:00</published>
-    <updated>2022-08-14T00:00:00+02:00</updated>
-    <author>
-      <name>Melchor Sanchez-Martinez</name>
-      <uri>/2022/08/14/Comienza-La-Liga/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FZ-8sbhX0AAajAc?format=jpg&amp;amp;name=medium&quot; alt=&quot;La Liga Jornada 1&quot; title=&quot;Osasuna primer gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+&lt;/p&gt;</content><author><name>Melchor Sanchez-Martinez</name></author><category term="Quien es" /><category term="LaLiga" /><category term="Villareal" /><summary type="html">Ha comenzado La Liga y ya tenemos los primeros nombres propios. Si desde el viernes al sabado Aimar Oroz fue trending topic por su gran actuacion contra el Sevilla culminada con un gol de penalti decisivio, también lo ha sido Alex Baena. El centrocampista Almeriense nacido en Roquetas de Mar en 2001, mismo año que Aimar Oroz o Caicedo de los que ya hemos hablado por aqui, firmo dos goles para sellar el triunfo por 0-3 de su equipo en Pucela. El segundo de ellos un autentico golazo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/img/thumbs/premier.webp" /><media:content medium="image" url="http://localhost:4000/static/img/thumbs/premier.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Arranca La Liga Santander!</title><link href="http://localhost:4000/2022/08/14/Comienza-La-Liga/" rel="alternate" type="text/html" title="Arranca La Liga Santander!" /><published>2022-08-14T00:00:00+02:00</published><updated>2022-08-14T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/14/Comienza-La-Liga</id><content type="html" xml:base="http://localhost:4000/2022/08/14/Comienza-La-Liga/">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FZ-8sbhX0AAajAc?format=jpg&amp;amp;name=medium&quot; alt=&quot;La Liga Jornada 1&quot; title=&quot;Osasuna primer gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- excerpt-start --&gt;
 
@@ -96,22 +57,7 @@
   &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/QwasiBerry/status/1559090681456590853)&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?q=la+liga&amp;amp;rlz=1C1CHBD_esES802ES802&amp;amp;biw=1885&amp;amp;bih=1079&amp;amp;ei=Snv3YsDcGKeMlwT06qzIDg&amp;amp;ved=0ahUKEwjAqZCozMP5AhUnxoUKHXQ1C-kQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=la+liga&amp;amp;gs_lcp=Cgdnd3Mtd2l6EAMyCAguENQCEJECMgQIABBDMggILhDUAhCRAjIECAAQQzIFCC4QkQIyBQgAEJECMgUIABCRAjIECAAQQzIFCAAQgAQyBQgAEIAEOgQILhBDOgcILhDUAhBDOgUILhCABDoICC4QgAQQ1AI6CwguEIAEEMcBENEDOgsILhCABBDHARCvAUoECEEYAEoECEYYAFAAWO0FYP4GaABwAXgAgAHiAYgB3QeSAQUwLjYuMZgBAKABAcABAQ&amp;amp;sclient=gws-wiz#sie=lg;/g/11sqj24s0_;2;/m/09gqx;mt;fp;1;;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://localhost:4000/2022/08/13/aimar-oroz</id>
-    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/13/aimar-oroz/"/>
-    <title>Quién es... Aimar Oroz</title>
-    <subtitle></subtitle>s
-    <published>2022-08-13T00:00:00+02:00</published>
-    <updated>2022-08-13T00:00:00+02:00</updated>
-    <author>
-      <name>Melchor Sanchez-Martinez</name>
-      <uri>/2022/08/13/aimar-oroz/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://estaticosgn-cdn.deia.eus/clip/1da310bd-e874-4762-bcb2-963de2a125bb_16-9-discover-aspect-ratio_default_0.jpg&quot; alt=&quot;Aimar Oroz. Image from Diario Deia&quot; title=&quot;Aimar Ooroz Gol Sevilla Jornada1&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?q=la+liga&amp;amp;rlz=1C1CHBD_esES802ES802&amp;amp;biw=1885&amp;amp;bih=1079&amp;amp;ei=Snv3YsDcGKeMlwT06qzIDg&amp;amp;ved=0ahUKEwjAqZCozMP5AhUnxoUKHXQ1C-kQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=la+liga&amp;amp;gs_lcp=Cgdnd3Mtd2l6EAMyCAguENQCEJECMgQIABBDMggILhDUAhCRAjIECAAQQzIFCC4QkQIyBQgAEJECMgUIABCRAjIECAAQQzIFCAAQgAQyBQgAEIAEOgQILhBDOgcILhDUAhBDOgUILhCABDoICC4QgAQQ1AI6CwguEIAEEMcBENEDOgsILhCABBDHARCvAUoECEEYAEoECEYYAFAAWO0FYP4GaABwAXgAgAHiAYgB3QeSAQUwLjYuMZgBAKABAcABAQ&amp;amp;sclient=gws-wiz#sie=lg;/g/11sqj24s0_;2;/m/09gqx;mt;fp;1;;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;</content><author><name>Melchor Sanchez-Martinez</name></author><category term="Jornada de Liga" /><category term="La Liga" /><summary type="html">Ha comenzado la liga santander! Todos los aficionados españoles estaban deseosos del que el balon comenzará a rodar en este año atípico en el que el mundial de Catar ha obligado a modificar el tradicional claendario comenzando antes de lo habitual y con una carga de partidos entre semana más alta de lo normal. El primer partido de la temporada fur el Osasuna-Sevilla. Un encuentro muy disputado con alternativas para los dos equipos en el que se impuso el cuadro local con cierta polemica ya que el gol del triunfo vino de un penalti o “penaltito” como dirian muchos. Se habia hablado en las semanas pevias de que este tipo de acciones no se sancionarían pero del dicho al hecho hay un trecho y al final la interpretación de cada colegiado sobre que es o no es un “penaltito” varia. Sea como fuere los locales se impusieron por 2-1 con goles del Chimy Avila en el minuto 9 y el joven canterano Aimar Oroz en el 74. Por pate visitante Rafa Mir marco en el minuto 11. En Osasuna debutaron los fichajes Moi Gomez y Ruben Peña así como Manu Sanchez que vuelve cedido una temporada más por el Atletico de Madrid. También debutó el canterano Pablo Ibañéz. Aitor Fernandez deberá espera a otra ocasión. Por parte del Sevilla solo debutó Alex Telles en el segundo tiempo. Marcao e Isco deberán esperar. En la tarde del sabado Celta y Espanyol se vieron las caras en un partido muy entretendo con alternativas por partes de los dos equipos que termino con empate a 2. Iago Aspas, quien sino, y el recien fichado delantero portugues Paciencia hicieron los goles celestes mientras que por el equipo catalan fueron los tambien recien fichados Edu exposito y Joselu quienes marcaron los tantos. El de Joselu de penalti polémico al final del partido. Hubo muchas protestas por parte de los jugadores vigueses pero finalmente el penalti se pito y Marchesin, que tambien debutaba en el dia de ayer, no pudo pararlo. Por parte del cuadro gallego además de los ya mencionados debutaron Unai Nuñez, Mingueza, Oscar Rodriguez y Carles Perez. De la Torre y Swedberg deberán esperar a una próxima ocasión. Por parte de los pericos debutaron Lecompte en porteria, Vinicius Souza y Brian Olivan. Valladolid y Villareal protagonizaron el otro partido de la tarde del sabado donde los groguets se impusieron por 0-3. Un gol de Jackson en el 49 y dos del joven Alex Baen que volvia tras cesion en el Girona decantaron el partdio del lado amarillo. Por cierto, vaya golazo el segundo de Baena. El partido en líneas generales estuvo muy disputado e incluso el Valladolid fue superior en cuanto a tiros a puerta o posesión pero el triunfo fue visitante que se mostró más efectivo. En el Villareal debutó el comandante Morales y por el Valladolid el guardameta, ex del Villareal, Sergio Asenjo e Ivan Sanchez que ha llegado procedente del Birmingham. Con los pucelanos también re-debutaron Olaza y Gassama que regresaban tras cesión. El utlimo partido del sábado lo protagonizaron Barcelona y Rayo Vallecano. Los cules partían como favoritos con la ilusión por las nubes tras los numerosos fichajes y volver a tener un equipo que a priori puede aspirar a todo. Sin embargo les faltó efectividad. Dominaron el partido, aunque el rayo tuvo sus ocasiones, pero no remacharon. Hubo un gol anulado a Lewandoski y otro a Falcao por sendos fueras de juego bien pitados por el colegiado. Al final 0-0. Hubo muchas criticas por el juego del rayo con faltas y parones constantes que al final desestabilizaron a más de uno y Busquets fué expulsado por tercera vez en su carrera. Al futbol se puede jugar de muchas formas y todas son lícitas gusten más o menos. El domingo arracó con un Cadiz - Real Sociedad donde los visitantes ganaron por 0-1 agravando los problemas que viven los amarillos con un verano movido por malos resultados y falta de fichajes. Los donostiarras hicieron un aprtido serio que dominaron de rincipio a fin y ganaron con un gol de Kubo a pase de Mikel Merino mediada la primera parte. En la Realdebutaron todos los fichajes: Kubo, Mendez y Ali-Cho. Los dos primeros como titulares. Por el Cadiz lo hicieron Zaldua, como titular, y Mabil. Valencia y Girona tomaron el testigo a las 19:30 del domingo con un partido entretenido y dinámico que se llevaron los che por 1-0. Los valencianistas dominaron el partido, tuvieron más ocasiones y daban la sensación de tenerlo bajo control. El gol llego por un penalti que transformó Carlos Soler. Recien comenzada la segunda parte el Valencia se quedo con un hombre menos tras una dura entrada de Cömert pero supo aguantar el resultado y lograr la victoria final. Para terminar el fin de semana Almeria - Real Madrid. Un ALmeria muy ordenado que se adelnato con un tempranero gol de Ramazani en el minuto 6. La segunda vez en la historia de la liga que un jugador belga marca a un protero belga, laprimera fue el Osasunista Lamah a Courtois cuando estaba en el Atleti. Volviendo al partido,el Madrid lo intento de todas las maneras pero el choque se marcho al descanso con victoria almeriense. Ya en el segundo tiempo la insistencia blanca dio sus frutos y con goles de Lucas Vazquez primero y David Alaba de falta después, los blancos pusieron el 1-2 definitivo en el electrónico. Partido trabajado por parte del Madrid que fue justo vencedor ya que domino el partdo de principio a fin. En el madrid debuto Tchouaméni y Rüdiger. En el ALmeria lo hizo solament Kakiky Fernandes. El resto de fichajes deberán esperar. Más información de los diferentes partidos aquí.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/img/thumbs/premier.webp" /><media:content medium="image" url="http://localhost:4000/static/img/thumbs/premier.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Quién es… Aimar Oroz</title><link href="http://localhost:4000/2022/08/13/aimar-oroz/" rel="alternate" type="text/html" title="Quién es… Aimar Oroz" /><published>2022-08-13T00:00:00+02:00</published><updated>2022-08-13T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/13/aimar-oroz</id><content type="html" xml:base="http://localhost:4000/2022/08/13/aimar-oroz/">&lt;p&gt;&lt;img src=&quot;https://estaticosgn-cdn.deia.eus/clip/1da310bd-e874-4762-bcb2-963de2a125bb_16-9-discover-aspect-ratio_default_0.jpg&quot; alt=&quot;Aimar Oroz. Image from Diario Deia&quot; title=&quot;Aimar Ooroz Gol Sevilla Jornada1&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- excerpt-start --&gt;
 
@@ -132,22 +78,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Esta temporada 22/23 parace que ya va estar en dinámica de primer equipo de forma permanente tras &lt;a href=&quot;https://www.osasuna.es/noticia/osasuna-renueva-a-aimar-oroz-hasta-el-2026&quot;&gt;renovar su contrato&lt;/a&gt; el pasado junio hasta 2026. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ayer tiene muchas probabilidades de ser un jugador importante para este &lt;a href=&quot;https://www.osasuna.es&quot;&gt;Osasuna&lt;/a&gt; que año tras año se nutre de la cantera para dar forma a sus proyectos.&amp;lt;p&amp;gt;
-&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://localhost:4000/2022/08/11/moises-caicedo</id>
-    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/11/moises-caicedo/"/>
-    <title>Quién es... Moises Caicedo</title>
-    <subtitle></subtitle>s
-    <published>2022-08-11T00:00:00+02:00</published>
-    <updated>2022-08-11T00:00:00+02:00</updated>
-    <author>
-      <name>Melchor Sanchez-Martinez</name>
-      <uri>/2022/08/11/moises-caicedo/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://images2.minutemediacdn.com/image/upload/c_crop,w_2474,h_1391,x_0,y_120/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01g2qdxwq2bmk3wcdrx6.jpg&quot; alt=&quot;Moises Caicedo&quot; title=&quot;Moises Caicedo celebrando gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+&lt;/p&gt;</content><author><name>Melchor Sanchez-Martinez</name></author><category term="Quien es" /><category term="LaLiga" /><category term="Osasuna" /><summary type="html">Ha comenzado La Liga con un disputado partido entree Sevilla y Osasuna que se llevo el equipo pamplonica por 2-1. Los goles los marcaron el Chimy Avila y Aimar Oroz, por parte rojilla, y Rafa Mir por los sevillistas. Uno de los tres goleadores sin duda es el menos conocido ya que Aimar, nacido el 27 de noviembre del 2001 en Pamplona, disputo su primer partido como titular en la liga santander. Y para mas inri con el equipo de su tierra del que es segudior desde niño y canterano. Además marcando un gol.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/img/thumbs/premier.webp" /><media:content medium="image" url="http://localhost:4000/static/img/thumbs/premier.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Quién es… Moises Caicedo</title><link href="http://localhost:4000/2022/08/11/moises-caicedo/" rel="alternate" type="text/html" title="Quién es… Moises Caicedo" /><published>2022-08-11T00:00:00+02:00</published><updated>2022-08-11T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/11/moises-caicedo</id><content type="html" xml:base="http://localhost:4000/2022/08/11/moises-caicedo/">&lt;p&gt;&lt;img src=&quot;https://images2.minutemediacdn.com/image/upload/c_crop,w_2474,h_1391,x_0,y_120/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01g2qdxwq2bmk3wcdrx6.jpg&quot; alt=&quot;Moises Caicedo&quot; title=&quot;Moises Caicedo celebrando gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- excerpt-start --&gt;
 
@@ -179,22 +110,7 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Estadístcas de Caicedo &lt;a href=&quot;https://www.transfermarkt.es/moises-caicedo/leistungsdaten/spieler/687626/plus/0?saison=2021&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://localhost:4000/2022/08/08/Comienza-la-Premier-segunda-parte</id>
-    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/08/Comienza-la-Premier-segunda-parte/"/>
-    <title>Segunda parte de la Jornada 1 de la Premier League!</title>
-    <subtitle></subtitle>s
-    <published>2022-08-08T00:00:00+02:00</published>
-    <updated>2022-08-08T00:00:00+02:00</updated>
-    <author>
-      <name>Melchor Sanchez-Martinez</name>
-      <uri>/2022/08/08/Comienza-la-Premier-segunda-parte/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_banners/343627165/1659976320/1500x500&quot; alt=&quot;Premier League Jornada 1&quot; title=&quot;Erwing Haaland gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Estadístcas de Caicedo &lt;a href=&quot;https://www.transfermarkt.es/moises-caicedo/leistungsdaten/spieler/687626/plus/0?saison=2021&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;</content><author><name>Melchor Sanchez-Martinez</name></author><category term="Quien es" /><category term="PremierLeague" /><category term="Brighton" /><summary type="html">Ha comenzado la premier league y ya tenemos los primeros nombres propios. Uno de ellos es el del joven jugador ecuatoriano Moises Caicedo. El joven centrocampista nacido en 2001 fue una de las sensaciones del gran partido de los seagulls contra el Manchester United. El jugador formado en Independiente del Valle llego a debutar en la Copa Libertadores marcando su primer gol en la competición el 11 de Marzo de 2020 contra el junior de Barranquilla cuando contaba con tan solo 18 años, antes de dar el salto a Europa de la mano del Brighton. Ese mismo año en Octubre, todavía con 18 años, debuto oficalmente con la seleccion de Ecuador de la cual es asiduo desde entonces y con la que jugará el próximo mundial de Catar.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/img/thumbs/premier.webp" /><media:content medium="image" url="http://localhost:4000/static/img/thumbs/premier.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Segunda parte de la Jornada 1 de la Premier League!</title><link href="http://localhost:4000/2022/08/08/Comienza-la-Premier-segunda-parte/" rel="alternate" type="text/html" title="Segunda parte de la Jornada 1 de la Premier League!" /><published>2022-08-08T00:00:00+02:00</published><updated>2022-08-08T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/08/Comienza-la-Premier-segunda-parte</id><content type="html" xml:base="http://localhost:4000/2022/08/08/Comienza-la-Premier-segunda-parte/">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_banners/343627165/1659976320/1500x500&quot; alt=&quot;Premier League Jornada 1&quot; title=&quot;Erwing Haaland gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- excerpt-start --&gt;
 
@@ -218,22 +134,7 @@
 
 &lt;p&gt;Interesante primera jornada de la Premier con sorpresas como los pinchazos de Liverpool y United. Veremos que nos depara la segunda jornada donde algunso equipos contaran con nuevas incorporaciones que seguro esperan les ayuden a mejorar su rendimiento. Solo el tiempo y el  balón nos dira si este es el caso!&lt;/p&gt;
 
-&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?rlz=1C1CHBD_esES802ES802&amp;amp;q=premier+resultados&amp;amp;spell=1&amp;amp;sa=X&amp;amp;ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&amp;amp;biw=1163&amp;amp;bih=626&amp;amp;dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://localhost:4000/2022/08/07/Comienza-la-Premier</id>
-    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/07/Comienza-la-Premier/"/>
-    <title>Arranca la Premier!</title>
-    <subtitle></subtitle>s
-    <published>2022-08-07T00:00:00+02:00</published>
-    <updated>2022-08-07T00:00:00+02:00</updated>
-    <author>
-      <name>Melchor Sanchez-Martinez</name>
-      <uri>/2022/08/07/Comienza-la-Premier/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FZqFA41WYAMccUb?format=jpg&amp;amp;name=4096x4096&quot; alt=&quot;Premier League Jornada 1&quot; title=&quot;Martinelli gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?rlz=1C1CHBD_esES802ES802&amp;amp;q=premier+resultados&amp;amp;spell=1&amp;amp;sa=X&amp;amp;ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&amp;amp;biw=1163&amp;amp;bih=626&amp;amp;dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;</content><author><name>Melchor Sanchez-Martinez</name></author><category term="Jornada de Liga" /><category term="PremierLeague" /><summary type="html">La segunda parte de la primera jornada de la premier tampoco ha defraudado. Este domingo se disputaron tres encuentros que dejaron sendos titulares. En primer lugar se confirmo que el Manchester United pese a la llegada</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/img/thumbs/premier.webp" /><media:content medium="image" url="http://localhost:4000/static/img/thumbs/premier.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Arranca la Premier!</title><link href="http://localhost:4000/2022/08/07/Comienza-la-Premier/" rel="alternate" type="text/html" title="Arranca la Premier!" /><published>2022-08-07T00:00:00+02:00</published><updated>2022-08-07T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/07/Comienza-la-Premier</id><content type="html" xml:base="http://localhost:4000/2022/08/07/Comienza-la-Premier/">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FZqFA41WYAMccUb?format=jpg&amp;amp;name=4096x4096&quot; alt=&quot;Premier League Jornada 1&quot; title=&quot;Martinelli gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- excerpt-start --&gt;
 
@@ -265,9 +166,4 @@
 
 &lt;p&gt;Emocionate primera parte de la jornada 1 de la premier la disputada ayer! Veremos que nos despara el resto de la jornada con tres encuentros aun por disputarse. Manchester United-Brighton, Leicester-Brentford y West Ham-Mancheter City.&lt;/p&gt;
 
-&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?rlz=1C1CHBD_esES802ES802&amp;amp;q=premier+resultados&amp;amp;spell=1&amp;amp;sa=X&amp;amp;ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&amp;amp;biw=1163&amp;amp;bih=626&amp;amp;dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  
-
-</feed>
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?rlz=1C1CHBD_esES802ES802&amp;amp;q=premier+resultados&amp;amp;spell=1&amp;amp;sa=X&amp;amp;ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&amp;amp;biw=1163&amp;amp;bih=626&amp;amp;dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;</content><author><name>Melchor Sanchez-Martinez</name></author><category term="Jornada de Liga" /><category term="PremierLeague" /><summary type="html">Ha comenzado la premier league. La por muchos considerada mejor liga del mundo y desde luego no es para menos. La competición que mas gasta en fichajes y en la que debido al estilo de juego, debido a un reparto más equitativo de los derechos de televisión o a la presencia de grandes fortunas como dueños de los clubes cualquier partido es entretenido.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/static/img/thumbs/premier.webp" /><media:content medium="image" url="http://localhost:4000/static/img/thumbs/premier.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

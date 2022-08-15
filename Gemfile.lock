@@ -267,7 +267,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (~> 3.8)
+  jekyll-feed
   jekyll-paginate
+  jekyll-sitemap
   jekyll-tagging
 
 BUNDLED WITH
