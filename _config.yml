@@ -12,7 +12,7 @@ social:
     - https://twitter.com/futbolresumen22
     - https://www.instagram.com/futbolresumen22
 
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-feed]
 paginate: 5
 paginate_path: "blog/page:num"
 

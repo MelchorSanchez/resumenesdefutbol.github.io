@@ -5,7 +5,7 @@ layout: post
 group: blog
 comments: true
 author : Melchor Sanchez-Martinez
-date: 2022-08-07
+date: 2022-08-15
 tags: [Jornada de Liga, PremierLeague]
 image: /static/img/thumbs/premier.webp
 ---
@@ -13,7 +13,7 @@ image: /static/img/thumbs/premier.webp
 
 <!-- excerpt-start -->
 
-Ha comenzado la premier league. La por muchos considerada mejor liga del mundo y desde luego no es para menos. La competición que mas gasta en fichajes y en la que debido al estilo de juego, debido a un reparto más equitativo de los derechos de televisión o a la presencia de grandes fortunas como dueños de los clubes cualquier partido es entretenido. <!-- excerpt-end --> Box to box que dicen los ingleses, futbol vertical ataque a tumba abierta y siempre, aunque no haya goles, muchas ocasiones e intercambio de golpes. Es cierto que hay equipos que les gusta la posesión como al City de Guardiola, pero no es menos cierto que el tiki taka del Barcelona de Pep no es el mismo del City que juega más vertical buscando profundidad por lo extremos.
+Segunda jornada de la Premier. Grandes partidos con alternativas. Box to box que dicen los ingleses, futbol vertical ataque muchas ocasiones e intercambio de golpes <!-- excerpt-end --> Jornada interesante que ha dejado varias sopresas.
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/PLforIndia/status/1555458165319561216?s=20&t=IVY09HFVhGXchxJKSPJVVQ"></iframe></div>
