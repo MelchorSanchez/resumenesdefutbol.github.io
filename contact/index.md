@@ -27,5 +27,5 @@ La forma más sencilla de contactar con el creador de este blog es por correo el
 </p>
 
 <p class="text-justify" style="font-size:120%;">
-También puedes conectar y contactar via [twitter](http://twitter.com/resumenesdefutbol) o [instagram](http://https://www.instagram.com).<br>
+También puedes conectar y contactar via [twitter](http://twitter.com/resumenesdefutbol) o [instagram](http://https://www.instagram.com) o suscribirte a nuestra [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSe2JpO8DhPCjVm3e1IXZeBJsVDOyapPvDjb4YA4RKDeDLj1LA/viewform) o nuestro [feed](https://feeds.feedburner.com/resumenesdefutbol/arhrnvnvnhn).<br>
 </p>

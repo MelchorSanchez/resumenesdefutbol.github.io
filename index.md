@@ -22,6 +22,7 @@ body {
 }
 </style>
 
+
 <!-- <img src="/static/img/compnag.webp" class="img-responsive max-width: 100%; height: auto"/> -->
 
 <h1 class="text-center" style="color:white;font-size:calc(1em + 3vw); position:absolute; bottom:72.5px;">**Resumenes de Futbol**</h1>

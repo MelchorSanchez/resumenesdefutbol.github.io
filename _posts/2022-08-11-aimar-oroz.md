@@ -6,7 +6,7 @@ group: blog
 comments: true
 author : Melchor Sanchez-Martinez
 date: 2022-08-13
-tags: [Quien es, LaLiga, Osasuna]
+tags: [Quien es, La Liga, Osasuna]
 image: /static/img/thumbs/premier.webp
 ---
 <img src="https://estaticosgn-cdn.deia.eus/clip/1da310bd-e874-4762-bcb2-963de2a125bb_16-9-discover-aspect-ratio_default_0.jpg" alt="Aimar Oroz. Image from Diario Deia" title="Aimar Ooroz Gol Sevilla Jornada1" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
