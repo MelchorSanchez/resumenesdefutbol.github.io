@@ -29,4 +29,4 @@ image: /static/img/thumbs/premier.webp
  src="https://twitframe.com/show?url=https://twitter.com/CAOsasuna/status/1558208598148268033"></iframe></div>
 <br/>
 
-<p>Esta temporada 22/23 parace que ya va estar en dinámica de primer equipo de forma permanente tras [renovar su contrato](https://www.osasuna.es/noticia/osasuna-renueva-a-aimar-oroz-hasta-el-2026) el pasado junio hasta 2026. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ayer tiene muchas probabilidades de ser un jugador importante para este [Osasuna](https://www.osasuna.es) que año tras año se nutre de la cantera para dar forma a sus proyectos.<p>
+<p>Esta temporada 22/23 parace que ya va estar en dinámica de primer equipo de forma permanente tras [renovar su contrato](https://www.osasuna.es/noticia/osasuna-renueva-a-aimar-oroz-hasta-el-2026) el pasado junio hasta 2026. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ayer tiene muchas probabilidades de ser un jugador importante para este [Osasuna](https://www.osasuna.es) que año tras año se nutre de la cantera para dar forma a sus proyectos.</p>
