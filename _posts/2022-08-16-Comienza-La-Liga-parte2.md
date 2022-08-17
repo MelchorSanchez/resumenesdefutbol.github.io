@@ -1,12 +1,12 @@
 ---
-title: Arranca La Liga Santander segunda parte
+title: Arranca La Liga Santander! Jornada 1 Segunda parte
 subtitle: Jornada 1 Parte 2. Lunes 15/08
 layout: post
 group: blog
 comments: true
 author : Melchor Sanchez-Martinez
 date: 2022-08-16
-update: 
+update:
 tags: [Jornada de Liga, La Liga]
 image: /static/img/thumbs/premier.webp
 ---
@@ -14,10 +14,10 @@ image: /static/img/thumbs/premier.webp
 
 <!-- excerpt-start -->
 
-<p>Tras los partidos disputados el viernes y el fin de semana, el lunes nos deparó tres grandes encuetros. En el primero de ellos Athletic y Mallorca no pasaron del [0-0](https://www.youtube.com/watch?v=ik7XnSgbttM&feature=onebox) en la [vuelta del Txingurri Valverde a los banquillos](https://es.besoccer.com/noticia/el-athletic-de-valverde-3-0-comienza-ante-un-mallorca-confiado-1172984) tras su accidentado paso por el Barcelona. Un partido dominado por los rojiblanos en el que Rajkovic fue la gran estrella de un Mallorca al que salvo de la goleada. Valverde va a añorar a Aritz Aduriz desatascador de un gran número de partidos en su etapa anterior en Bilbao. En el Mallorca debutaron Rajkovic, Copete, Maffeo, Battaglia y Muriqui. Estos tres últimos adquiridos en propiedad tras estar cedidos en el equipi el curso anterior. También re-debutó tras su vuelta de cesión Lago Junior. En los bilbainos debutaron Gorka Guruzeta y Ares Djalo.</p>
+<p>Tras los partidos disputados el viernes y el fin de semana, el lunes nos deparó tres grandes encuetros. En el primero de ellos Athletic y Mallorca no pasaron del [0-0](https://www.youtube.com/watch?v=ik7XnSgbttM&feature=onebox) en la [vuelta del Txingurri Valverde a los banquillos](https://es.besoccer.com/noticia/el-athletic-de-valverde-3-0-comienza-ante-un-mallorca-confiado-1172984) tras su accidentado paso por el Barcelona. Un partido dominado por los rojiblanos en el que Rajkovic fue la gran estrella de un Mallorca al que salvo de la goleada. Valverde va a añorar a Aritz Aduriz desatascador de un gran número de partidos en su etapa anterior en Bilbao. En el Mallorca debutaron Rajkovic, Copete, Maffeo, Battaglia y Muriqui. Estos tres últimos adquiridos en propiedad tras estar cedidos en el equipi el curso anterior. También re-debutó tras su vuelta de cesión Lago Junior. En los bilbainos debutaron Gorka Guruzeta y Adu Ares.</p>
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
- src="https://twitframe.com/show?url=https://twitter.com/RCD_Mallorca/status/15592291630510243856)"></iframe></div>
+ src="https://twitframe.com/show?url=https://twitter.com/AthleticClub/status/1559254287766765569)"></iframe></div>
 
 
 <p> El siguiente partido del lunes lo protagonizaron Getafe y Atletico de Madrid. Los colchoneros vencieron por [0-3](https://www.youtube.com/watch?v=QfYLwiB6RjE&feature=onebox) al conjunto azulon en un choque mucho más igualado de lo que indica el resultado. Con un Morata en estado de gracia y Joao Felix asumiendo galones los rojiblancos salieron triunfantes del coliseo. Los dos goles de Morata en el 15' y el 59' más el de Griezmann en el 75' certificaron el triunfo de los de Simeone. En el Getafe debutaron Domingos Duarte, Fabrizio Angileri, Seoane, Portu y Borja Mayoral. Kiko Casilla y Luis Milla deberán esperar su oportunidad. Por los colchoneros debutaron Witsel y Nahuel Molina.</p>
