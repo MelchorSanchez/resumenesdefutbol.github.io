@@ -1,6 +1,6 @@
 ---
 title: Arranca La Liga Santander!
-subtitle: Jrnada 1 Parte 2. Lunes 15/08
+subtitle: Jornada 1 Parte 2. Lunes 15/08
 layout: post
 group: blog
 comments: true
