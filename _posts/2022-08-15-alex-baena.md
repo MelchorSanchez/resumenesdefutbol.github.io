@@ -6,7 +6,7 @@ group: blog
 comments: true
 author : Melchor Sanchez-Martinez
 date: 2022-08-15
-tags: [Quien es, LaLiga, Villareal]
+tags: [Quien es, La Liga, Villareal]
 image: /static/img/thumbs/premier.webp
 ---
 <img src="https://img.asmedia.epimg.net/resizer/UV2uHVu98UpNXKaT4ofE4wRqEGM=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/GPUBCHRNG4CFHOCYHEHZFMMGHQ.jpg" alt="Alex Baena. Image from Diario As" title="Alex Baena Villareal" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
