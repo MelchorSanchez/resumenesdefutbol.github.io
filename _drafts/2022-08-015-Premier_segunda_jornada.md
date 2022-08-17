@@ -1,6 +1,6 @@
 ---
 title: Arranca la Premier!
-subtitle:
+subtitle: Premier League. Matchweek 2
 layout: post
 group: blog
 comments: true
@@ -13,7 +13,7 @@ image: /static/img/thumbs/premier.webp
 
 <!-- excerpt-start -->
 
-Segunda jornada de la Premier. Grandes partidos con alternativas. Box to box que dicen los ingleses, futbol vertical ataque muchas ocasiones e intercambio de golpes <!-- excerpt-end --> Jornada interesante que ha dejado varias sopresas.
+Segunda jornada de la Premier. Grandes partidos con alternativas. Box to box que dicen los ingleses, futbol vertical ataque muchas ocasiones e intercambio de golpes <!-- excerpt-end --> Jornada interesante que ha dejado varias sorpresas como el segundo empate consecutivo del Liverpoolo el hundimeinto del United. También tensión como lavivida entre Conte y Tuchel, anvs expulsados al final del partido, que aunque no llegaron a las manos si que tuvieron un encontrazo con ellas mediante.
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/PLforIndia/status/1555458165319561216?s=20&t=IVY09HFVhGXchxJKSPJVVQ"></iframe></div>

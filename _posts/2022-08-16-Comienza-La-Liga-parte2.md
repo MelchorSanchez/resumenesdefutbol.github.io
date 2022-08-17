@@ -5,8 +5,8 @@ layout: post
 group: blog
 comments: true
 author : Melchor Sanchez-Martinez
-date: 2022-08-14
-update: 2022-08-15
+date: 2022-08-16
+update: 
 tags: [Jornada de Liga, La Liga]
 image: /static/img/thumbs/premier.webp
 ---
