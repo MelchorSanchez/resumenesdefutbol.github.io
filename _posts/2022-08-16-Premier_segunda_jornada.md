@@ -26,7 +26,7 @@ Southampton y Leeds [empataron a 2](https://www.youtube.com/watch?v=DP7oiIuNLsc)
 El Arsenal goleo por [4-2](https://www.youtube.com/watch?v=pR0pHu2dQ9Q) al Leicester. Un doblete de Gabriel Jesus certificó elmomento dule del brasileño desde su llegada al Emirates. Xhaka en el 55' y Martinelli  en el 75',otro que también esta de dulce, pusieron el resto de goles de los gunners.Por parte delLeicester Willima Saliba en propia puerta en el 53' y Maddison en el 74' pusieron los goles foxes en el marcador. El arsenal certifico que este año queire aspirar a cosas importantes mientras que el Leciester debe terminar de pulir varias cosas en su juego.
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
- src="ttps://twitframe.com/show?url=https://twitter.com/Arsenal/status/1559136276548395008"></iframe></div>
+ src="https://twitframe.com/show?url=https://twitter.com/Arsenal/status/1559136276548395008"></iframe></div>
 
 
 Brighton y Newcastle [empataron a 0](https://www.youtube.com/watch?v=zAqRv20Ol1c) en un encuentro mucho más entretenido de lo que refleja el marcador. Un Brighton que recientemente ha anunciado el fichaje de Pervis Estupiñan como substituo de Marc Cucurella. Sabor ecuatoriano para la banda izquierda de los Seagulls. Fulham y Wolves repitieron el mismo resultado. [0-0] (https://www.youtube.com/watch?v=CK_1x9fU4vM).  Un aprti entretedo en el que Jose Sa salvo a su equipo parando incluso un penalti a Mitrovic.
@@ -36,7 +36,7 @@ El Manchester City goleó or -0 al Bournemouth. Los cherries no pudieron en ning
 La sorpresa de la tarde del sábado fue sin duda la goleada por [4-0](https://www.youtube.com/watch?v=5t9WQHcy6dE) del Brentford al Manchester United. Un United sin ideas donde De Gea regaló un gol de los que nunca suele fallar. Donde Lisandro Martinez fue substituido al descanso por Varane quedando señalado por Ten Hag. Un United donde no hay ni individualidades ni juego colectivo. Un desastre sin paliativos que debe cambiar por el bien del equipo mancuniano. En los despachos por si fuera poco la sensacion es la misma que en el cesped. Desorden sin ideas. Los goles de Da Silva, Jensen , Mee y Mbeumo pusieron el 4-0 en el marcador en el minuto 35. Las estadisticas del partidan hablan de un cho que igualado pero el que lo vio en directo sabe que el Brentford bailó al United. Al menos 35'. Luego jugó con el resultado.
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
- src="ttps://twitframe.com/show?url=https://twitter.com/BrentfordFC/status/1559262755613466625"></iframe></div>
+ src="https://twitframe.com/show?url=https://twitter.com/BrentfordFC/status/1559262755613466625"></iframe></div>
 
  El domingo comenzó con la victoria [1-0](https://www.youtube.com/watch?v=ysUq9f86Sy0) del Forest contra el West Ham. Un encuentro en el que el Forest comenzó dominando pero después fueron los hammers los que llevaron la iniciativa aunque incapaces de perforar la portería de Henderson que realizó grandes intervenciones. El gol de Taiwo Awoniyii de rebote en el descuent de la prmera parte fue suficiente para el forest. En el encuentro se produjo la desgraciada lesión de Diego Carlos que tiene para 9 meses de baja. Para substituir al recien fichado defensa, los hammers han [contratado los servicios de Kehrer](https://www.fichajes.net/noticias/oficial-thilo-kehrer-ficha-west-ham-20220817.html).
 
