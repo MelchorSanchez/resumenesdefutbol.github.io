@@ -39,6 +39,6 @@ En verano de 2022 fichó por el Mallorca para ser su portero titular.
  src="https://twitframe.com/show?url=https://twitter.com/RCD_Mallorca/status/1559489918111473665"></iframe></div>
 <br/>
 
-A nivel internacional ha jugado con serbia en todas las categorias inferires desde la sub16 hasta la sub21. Actualmente juega en la selección absoluta de Serbia con la que disputará el mundial de Catar y ya disputó el de 2018 en Rusia.
+A nivel internacional ha jugado con serbia en todas las categorias inferiores desde la sub16 hasta la sub21. Actualmente juega en la selección absoluta de Serbia con la que disputará el mundial de Catar y ya disputó el de 2018 en Rusia.
 
 <p>A tenor de su trayectoria y palmarés, su fichaje parece un gran acierto de la dirección deportiva del Mallorca. Veremos como evoluciona la temporada pero si mantiene el nivel del primer encuentro, la portería bermellona esta a buen recaudo.</p>
