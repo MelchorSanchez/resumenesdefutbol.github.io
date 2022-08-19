@@ -1,5 +1,5 @@
 ---
-title: Pedrag Rajković
+title: Predrag Rajković
 subtitle: El muro serbio del Mallorca
 layout: post
 group: blog
