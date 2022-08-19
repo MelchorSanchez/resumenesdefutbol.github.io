@@ -29,7 +29,7 @@ El Arsenal goleo por [4-2](https://www.youtube.com/watch?v=pR0pHu2dQ9Q) al Leice
  src="https://twitframe.com/show?url=https://twitter.com/Arsenal/status/1559136276548395008"></iframe></div>
 
 
-Brighton y Newcastle [empataron a 0](https://www.youtube.com/watch?v=zAqRv20Ol1c) en un encuentro mucho más entretenido de lo que refleja el marcador. Un Brighton que recientemente ha anunciado el fichaje de Pervis Estupiñan como substituo de Marc Cucurella. Sabor ecuatoriano para la banda izquierda de los Seagulls. Fulham y Wolves repitieron el mismo resultado. [0-0] (https://www.youtube.com/watch?v=CK_1x9fU4vM).  Un aprti entretedo en el que Jose Sa salvo a su equipo parando incluso un penalti a Mitrovic.
+Brighton y Newcastle [empataron a 0](https://www.youtube.com/watch?v=zAqRv20Ol1c) en un encuentro mucho más entretenido de lo que refleja el marcador. Un Brighton que recientemente ha anunciado el fichaje de Pervis Estupiñan como substituo de Marc Cucurella. Sabor ecuatoriano para la banda izquierda de los Seagulls. Fulham y Wolves repitieron el mismo resultado. [0-0](https://www.youtube.com/watch?v=CK_1x9fU4vM).  Un aprti entretedo en el que Jose Sa salvo a su equipo parando incluso un penalti a Mitrovic.
 
 El Manchester City goleó or -0 al Bournemouth. Los cherries no pudieron en ningun momento con los citizens que con los golesde Gundogan en el 19', De bRUYNE EN EL 31' y Foden en el 37' finquitaron el encuentro.En el 79' Lerma en propa puerta puso el 4-0 definitivo. Los cherries saben que esa no es su liga y tras comenzar ganando en la priemra jornada deben olvidarse este encuentro y afrontar con confianza el próximo contra el ARsenal sabiendo que aun perdiendo de nuevo tiene el colchon de los primeors 3 puntos conseguidos en la jornada 1.
 
