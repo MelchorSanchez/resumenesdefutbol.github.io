@@ -1,5 +1,5 @@
 ---
-title: Arranca la Premier!
+title: Premier League. Jornada 2.
 subtitle: Premier League. Matchweek 2
 layout: post
 group: blog
