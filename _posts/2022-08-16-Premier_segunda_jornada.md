@@ -9,7 +9,7 @@ date: 2022-08-16
 tags: [Jornada de Liga, PremierLeague]
 image: /static/img/thumbs/premier.webp
 ---
-<img  src="/static/img/blog/j2.webp" alt="Premier League Jornada 2" title="Results Matchweek2 Premier League 2022/23" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
+<img  src="/static/img/blog/j2.webp" alt="Premier League Jornada 2" title="Results Matchweek2 Premier League 2022/23" class="img-responsive center-block" style="max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px">
 
 <!-- excerpt-start -->
 
