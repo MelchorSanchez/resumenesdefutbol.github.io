@@ -5,7 +5,7 @@ layout: post
 group: blog
 comments: true
 author : Melchor Sanchez-Martinez
-date: 2022-08-15
+date: 2022-08-16
 tags: [Jornada de Liga, PremierLeague]
 image: /static/img/thumbs/premier.webp
 ---
