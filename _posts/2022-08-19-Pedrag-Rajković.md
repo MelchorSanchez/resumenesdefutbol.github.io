@@ -34,10 +34,10 @@ En el verano de 2019 se marchó al Stade de Reims como substituo de Edouard Mend
 
 En verano de 2022 fichó por el Mallorca para ser su portero titular.
 
-<br/>
+
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/RCD_Mallorca/status/1559489918111473665"></iframe></div>
-<br/>
+
 
 A nivel internacional ha jugado con serbia en todas las categorias inferiores desde la sub16 hasta la sub21. Actualmente juega en la selección absoluta de Serbia con la que disputará el mundial de Catar y ya disputó el de 2018 en Rusia.
 
