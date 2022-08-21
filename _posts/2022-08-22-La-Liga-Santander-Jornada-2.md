@@ -1,6 +1,6 @@
 ---
-title: Arranca La Liga Santander!
-subtitle:
+title: La Liga Santander. Jornada 2
+subtitle: Resumen de la jornada
 layout: post
 group: blog
 comments: true
