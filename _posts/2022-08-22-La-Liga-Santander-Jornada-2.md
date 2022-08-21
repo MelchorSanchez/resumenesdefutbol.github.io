@@ -13,7 +13,6 @@ image: /static/img/thumbs/premier.webp
 
 <!-- excerpt-start -->
 
-
 Segunda jornada de La Liga Santander. Grandes partidos. Un Betis que a base de ganar partidos pone parches al lio con la inscripcion de fichajes. Un Madrid que parece no acusar la baja de Casemiro. Un Osasuna que volvio a ganar. Un Barcelona que no termina de carbrurar. Un Atletico que se lio. Un Athletic que gano. Un Valencia que se estrello contra el palo. Un Mallorca que lo intento pero no pudo. Un Sevilla que no va. Un Villareal que lleva dos de dos y un largo etc de titualres. Grandísima jornada y nos quedan todavía 36 más!
 
 Dicho esto todos hacemos vacaciones y este blog no es menos. Asi quee esta semana en luigar del habitual resumen de cada partido os dejo mi TweetResumen de la jornada. Intentaremos a parte de la cronica del blog, hacer un hilo de twitter cada semana con el resumen de cada partido en un tweet.
