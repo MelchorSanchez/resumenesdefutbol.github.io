@@ -1,6 +1,6 @@
 ---
 title: Samuel Lino
-subtitle: EDesborde brasileño para el Valencia
+subtitle: Desborde brasileño para el Valencia
 layout: post
 group: blog
 comments: true
@@ -16,7 +16,7 @@ image: /static/img/thumbs/premier.webp
 <p>El Valencia de Gatusso comenzó con buen pie la liga ganando por 1-0 a Girona. AUnque el resultado pueda parecer corto, el conjunto che realizó un gran encuentro. Uno de los jugadores más destacads del cuadro valencianista fué [Samuel Lino](https://es.wikipedia.org/wiki/Samuel_Lino). El extremo brasileño fué un auténtico puñal por la banda izquierda realizando varias jugadas de mérito. Su gran encuentro propició muchas alabanzas e incluso la consecución de algun premio com el [premio Hyundai](https://eldesmarque.com/valencia/promociones/hyundai/364525-samuel-lino-el-jugador-hyundai-del-valencia-girona) al mejor jugador del encuentro que otorga el diario El Desmarque.</p>
 
 
-<p>El jugadro brasiñemo nacido en Santo André el 23 de diciembre de 1999 llegó al Valencia [cedido por el Atletico de Madrid](https://www.atleticodemadrid.com/noticias/acuerdo-con-el-valencia-para-la-cesion-de-samuel-lino) sn opción de comrpa en busca de minutos que resumiblemente no tendría en el conunto colchonero. El Atlético fichó a Lino este mismo verano del [Gil Vicente](https://es.wikipedia.org/wiki/Gil_Vicente_Futebol_Clube) portuguués donde desde su llegada en 2019,en tres temporadas, se convirtió en una un jugador fundametal anotando 26 goles y repartiendo 5 asistencias en los 99 encuentros oficiales que disputó con el conjunto de Barcelos. <!-- excerpt-end --></p>
+<p>El jugadro brasileño nacido en Santo André el 23 de diciembre de 1999 llegó al Valencia [cedido por el Atletico de Madrid](https://www.atleticodemadrid.com/noticias/acuerdo-con-el-valencia-para-la-cesion-de-samuel-lino) sn opción de comrpa en busca de minutos que resumiblemente no tendría en el conunto colchonero. El Atlético fichó a Lino este mismo verano del [Gil Vicente](https://es.wikipedia.org/wiki/Gil_Vicente_Futebol_Clube) portuguués donde desde su llegada en 2019,en tres temporadas, se convirtió en una un jugador fundametal anotando 26 goles y repartiendo 5 asistencias en los 99 encuentros oficiales que disputó con el conjunto de Barcelos. <!-- excerpt-end --></p>
 
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
@@ -29,12 +29,10 @@ image: /static/img/thumbs/premier.webp
  src="https://twitframe.com/show?url=https://twitter.com/GilVicente_fc/status/1464371987346767876?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1464371987346767876%7Ctwgr%5E2e019cbd4f18c096f8485de4cbadd2923b5ee9af%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.goal.com%2Fes%2Fnoticias%2Fquien-es-samuel-lino-nuevo-fichaje-del-atletico-madrid-de%2Fblt84a647381eaf4da1
 "></iframe></div>
 
-<div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
- src="https://twitframe.com/show?url=https://twitter.com/VCFUK_/status/15516161356861440030"></iframe></div>
 
 <p>Previo a su fichaje por el Gil Vicente, el extremo jugó en el [Sao Bernardo brasileño](https://es.wikipedia.org/wiki/S%C3%A3o_Bernardo_Futebol_Clube) durante dos temporadas, debutando en el campeonato paulista. En esas temporadas jugo cedido unos meses en las categorías inferiores del Flamengo. Su buen desempeño junto a su juventud hizo que pudiera dar el salto a europa de mano del Gil Vicente</p>
 
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=750 width=550 class="responsive-iframe center-block"
- src="https://twitframe.com/show?url=https://twitter.com/VCFUK_/status/15516161356861440030"></iframe></div>
+ src="https://twitframe.com/show?url=https://twitter.com/valenciacf_en/status/1552681012710219778?ref_src=twsrc%5Etfw"></iframe></div>
 
 <p>Calidad, desequilibrio, juventud y gol para la banda Valencianista, y la colchonera en un futuro. Veremos como se desempeña de la maano de Gatuuso en este Valencia. La carta de presentación ha sido inmejorable, las referencias  de portugal también lo son. Esperemos que este año la banda valencianista este bien cubierta y porporcione grandes tardes de gloria en Mestalla a la parroquia valencianista. </p>
