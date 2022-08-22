@@ -1,5 +1,5 @@
 ---
-title: Premier League. Jornada 3.
+title: Premier League. Jornada 3
 subtitle: Premier League. Matchweek 3
 layout: post
 group: blog
