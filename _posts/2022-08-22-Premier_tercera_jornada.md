@@ -9,7 +9,7 @@ date: 2022-08-22
 tags: [Jornada de Liga, PremierLeague]
 image: /static/img/thumbs/premier.webp
 ---
-<img  src="https://pbs.twimg.com/media/Fas-WAyXEAA73Pr?format=jpg&name=small alt="Jack Harrison and Rodrigo celebrate Leeds’ third goal against Chelsea at Elland Road. Image from Leeds United official twitter" title="Rodrgio gol Leeds vs Chelsea" class="img-responsive center-block" style="max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px">
+<img  src="https://pbs.twimg.com/media/Fas-WAyXEAA73Pr?format=jpg&name=small" alt="Jack Harrison and Rodrigo celebrate Leeds’ third goal against Chelsea at Elland Road. Image from Leeds United official twitter" title="Rodrgio gol Leeds vs Chelsea" class="img-responsive center-block" style="max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px">
 
 <!-- excerpt-start -->
 
