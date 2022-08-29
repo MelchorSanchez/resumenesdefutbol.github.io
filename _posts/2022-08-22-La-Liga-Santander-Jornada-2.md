@@ -17,7 +17,7 @@ Segunda jornada de La Liga Santander. Grandes partidos. Un Betis que a base de g
 
 Dicho esto todos hacemos vacaciones y este blog no es menos. Asi quee esta semana en luigar del habitual resumen de cada partido os dejo mi TweetResumen de la jornada. Intentaremos a parte de la cronica del blog, hacer un hilo de twitter cada semana con el resumen de cada partido en un tweet.
 
-<div style="text-align:center;"><iframe border=0 frameborder=0 height=2500 width=550 class="responsive-iframe center-block"
+<div style="text-align:center;"><iframe border=0 frameborder=0 height=250 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1560872473096331266"></iframe></div>
 
 
