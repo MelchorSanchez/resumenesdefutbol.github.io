@@ -28,13 +28,13 @@ image: /static/img/thumbs/premier.webp
  src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563591398397718529"></iframe></div>
 <h4>**Elche	0-1	R. Sociedad**</h4>
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=250 width=550 class="responsive-iframe center-block"
- src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563653923214442502"></iframe></div>
+ src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563652419866746880"></iframe></div>
 <h4>**Rayo	0-2	Mallorca**</h4>
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=250 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563943694591483905"></iframe></div>
 <h4>**Almeria	2-1	Sevilla**</h4>
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=250 width=550 class="responsive-iframe center-block"
- src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563254683351019521"></iframe></div>
+ src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563653923214442502"></iframe></div>
 <h4>**Getafe	0-0	Villarreal**</h4>
 <div style="text-align:center;"><iframe border=0 frameborder=0 height=250 width=550 class="responsive-iframe center-block"
  src="https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563990778573094913"></iframe></div>
