@@ -9,7 +9,7 @@ date: 2022-08-29
 tags: [Jornada de Liga, PremierLeague]
 image: /static/img/thumbs/premier.webp
 ---
-<img  src="https://pbs.twimg.com/media/Fas-WAyXEAA73Pr?format=jpg&name=small" alt="Jack Harrison and Rodrigo celebrate Leeds’ third goal against Chelsea at Elland Road. Image from Leeds United official twitter" title="Rodrgio gol Leeds vs Chelsea" class="img-responsive center-block" style="max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px">
+<img  src="https://ia.tmgrup.com.tr/41c108/600/314/0/0/800/419?u=https://i.tmgrup.com.tr/anews/v1/2022/08/28/saint-maximin-snatches-late-point-for-newcastle-at-wolves-1661701402818.jpeg" alt="Saint-Maximin Newcastle goal. Image from anews.com" title="Saint-Maximin golazo volea" class="img-responsive center-block" style="max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px">
 
 <!-- excerpt-start -->
 
