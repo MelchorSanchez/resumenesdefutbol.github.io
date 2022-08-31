@@ -10,7 +10,7 @@ tags: [Jornada de Liga, PremierLeague]
 image: /static/img/thumbs/premier.webp
 ---
 
-<img src="https://pbs.twimg.com/profile_banners/343627165/1659976320/1500x500" alt="Premier League Jornada 1" title="Erwing Haaland gol" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
+<img src="https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_118346797.jpg" alt="Premier League Jornada 1" title="Erwing Haaland gol. Image from inews.com" class="img-responsive center-block" style="max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px">
 
 <!-- excerpt-start -->
 

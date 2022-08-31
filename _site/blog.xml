@@ -3,13 +3,420 @@
   <title>Blog</title>
   <link href="http://localhost:4000"/>
   <link type="application/atom+xml" rel="self" href="http://localhost:4000/blog.xml"/>
-  <updated>2022-08-15T17:26:29+02:00</updated>
+  <updated>2022-08-31T13:09:01+02:00</updated>
   <id>http://localhost:4000</id>
   <author>
     <name>Resumenes de Futbol</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/29/Premier_jornada_4</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/29/Premier_jornada_4/"/>
+    <title>Premier League. Jornada 4.</title>
+    <subtitle>Premier League. Matchday 4</subtitle>s
+    <published>2022-08-29T00:00:00+02:00</published>
+    <updated>2022-08-29T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/29/Premier_jornada_4/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ia.tmgrup.com.tr/41c108/600/314/0/0/800/419?u=https://i.tmgrup.com.tr/anews/v1/2022/08/28/saint-maximin-snatches-late-point-for-newcastle-at-wolves-1661701402818.jpeg&quot; alt=&quot;Saint-Maximin Newcastle goal. Image from anews.com&quot; title=&quot;Saint-Maximin golazo volea&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Cuarta jornada de la Premier que nos deja un Arsenal que sigue invicto y contanto todos sus partidos por victorias, Un Arsenal que pese a dominar al Fulham se vio 0-1 en el marcador y supo sufrir y sobreponerse. Gran partido de Odegaard. Una jornada en la que el Leeds estuvo más espeso que en las tres anteriores y perdió su condición de invicto ante un Brighton que la mantiene. Cuando Trossard y Groß se encuentran se arma el lio. Y si &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/11/moises-caicedo/&quot;&gt;Caicedo&lt;/a&gt; esta por ahí se hace aún mayor. El City también sigue invicto tras levantar un 0-2 ante un Palace sin Zaha gracias. Haaland y Bernardo Silva espectaculares. Eze en el Palace todavía más. Que jugador y que inicio de Premier esta teniendo.&lt;/p&gt;
+
+&lt;p&gt;Vimos un Liverpool que pago los platos rots de su mal inicio liguero con los cherries que se llevaron 9. Los cherries no hicieron acto de presencia. Llevan tres partidos muy complicados con derrotas abultadas. Deben levantar cabeza pero almenos estan fuera del descenso. Descenso que ocupan Everton, Wolves y Leicester. Tres que deben mejorar y eso que comparados con otras jornadas ya han mostrdo cierta mejoría en mayor o menos medidida. El Everton algo mejoró y se adelantó al Brentford pero a este equipo le falta seguridad, empaque y confianza a parte de algun fichaje y acabo concediendo un gol. El Brentofrd no jugo su mejor partido pero solventó la papeleta. Los Wolves jugaron un partido parejo contra el Newcastle. Están en una linea ascendente de mejoría. Se adelantaro incluso pero Saint-Maximin marco un golazo en el descuento para empatar. Que jugador es el frances que pese a no hacer un gran encuentro apareció cuando más falta hacía. Los foxes fueron superados por el Chelsea. Jugaron mejor que otros dias. Tuvieorn más la pelota y chutaron más que el Chelsea, pero perdieron contra unos blues con uno menos desde el minuto 28. Sterling decisivo y Madison en su línea, bien como casi siempre.&lt;/p&gt;
+
+&lt;p&gt;Aston Villa es otro que debe mejorar. Los de Gerrard llevan 3 vctorias en los ultimos 15 ecuentros de premier. Por momentos juegan bien y lo intentan pero les falta defensa y contundencia. Ayer el West Ham gano su primer partido del curso marcando también su primer gol del año. Antonio tiene ser más decisivo,volverá a serlo sin duda, y Scamacca aparecer. Fornals bien. Coutinho mal. Sin chispa. Nada que ver con el del año pasado. El United gano jugando mal. Algo es algo pero tambien otroa que tiene que mejorar. El SOuthampton no pudo,le falto definir pero jugo bien. Demostro otra vez que tiene jugadores jovenes que van a dar mucho que hablar. Finalmente Forest y Tottehnham jugaron un partido parejo. Los locales no se arrugaron, lo intentaron y seguramente merecieron más pero les falto gol y dos zarpazos de Kane los mandaron a la lona. Que importante es Harry Kane en el Tottenham de Conte.&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;Southampton	0-1	Man United&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563552425541513216&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Liverpool	9-0	Bournemouth&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563558220274094080&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Chelsea	2-1	Leicester City&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563561367969230848&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Brighton	1-0	Leeds United&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563560020566212608&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Brentford	1-1	Everton&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563791313811771392&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Man City	4-2	Crystal Palalace&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563558860249796608&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Arsenal	2-1	Fulham&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563914995611615232&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Aston Villa	0-1	West Ham&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563917172086226944&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Wolverhampton	1-1	Newcastle&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1564157646235729921&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Nottingham Forest	0-2	Tottenham&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1564152914284773381&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?rlz=1C1CHBD_esES802ES802&amp;amp;q=premier+resultados&amp;amp;spell=1&amp;amp;sa=X&amp;amp;ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&amp;amp;biw=1163&amp;amp;bih=626&amp;amp;dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/29/La-Liga-Santander-Jornada-3</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/29/La-Liga-Santander-Jornada-3/"/>
+    <title>La Liga Santander. Jornada 3</title>
+    <subtitle>Resumen de la jornada</subtitle>s
+    <published>2022-08-29T00:00:00+02:00</published>
+    <updated>2022-08-29T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/29/La-Liga-Santander-Jornada-3/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://caracoltv.brightspotcdn.com/dims4/default/53320f1/2147483647/strip/true/crop/3179x2119+0+0/resize/1000x667!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Ff1%2Fd6%2Fc9dcc49b446b982ddc932a3ce695%2F000-32h94ke.jpg&quot; alt=&quot;La Liga Jornada 3. Lewandoski gol. Image from GolCaracol&quot; title=&quot;Lewandoski gol Valladolid&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Tercera jornada de La Liga Santander. Grandes partidos. Betis y Madrid siguen contando sus partidos por victorias y por ende van primeros en &lt;a href=&quot;https://resumenesdefutbol.com/clasificaciones/&quot;&gt;la clasificación&lt;/a&gt;. Barcelona y Villareal siguen invictos y les van a la zaga. Una jornada que deja la primera derrota de Osasuna, aunque compitió y el Betis tuvo que sudar, y que confirmo que el Sevlla no levanta cabeza. Las voces ontra Lopetegui cada vez suenan más alto. &lt;/p&gt;
+
+&lt;p&gt;Vimos un Getafe que mejoró,especialmente en defensa, pero al que le sigue faltando cocción. Un Valladolid que dejo brotes verdes, muy bien Villa, Roque Mesa y el debutante Arroyo, pero se vió superado por un Barcelona que rozó la perfección por momentos, Lewandoski y Raphinha excelentes. Dembele se asociamuy bien con ellos. &lt;!-- excerpt-end --&gt; Kounde de lateral es un parche pero lo hizo bien. Pedri espectacular. Una Real Sociedad que demostró que le falta gol pero lo suple con oficio. Brais Mendez dara mucho a este equipo. Cho no es delantero centro pero dejo buenas sensaciones.  &lt;/p&gt;
+
+&lt;p&gt; Un Elche que debe mejorar. Lirola y Mojica de carrileros mejoran al equipo. Un Mallorca que si encuentra a Muriqi es otra cosa. Kang In Lee muy bien de nuevo. Un Rayo que lo intento, jugo bien pero no le salió. Un Espnayol que lo intentó, que luchó pero que fué doblegado por el Madrid. Muy bien Joselu y excelente Tchouaméni. Benzema no esta como el año pasado pero rescato al equipo. Un Almeria que demotró que va ser un equipo que dará guerra. Ramazzani y Sadiq un seguro arriba. Fernando en la porteria otro. Un Celta de Vigo que bien podria llamarse celta de Aspas. El de Moaña es medio equipo sino más. Un Girona que compite, que juega pero que a veces le falta la suerte. Taty Castellanos un gran fichaje. Un Villareal que estuvo espeso medio partido y el otro medio estuvo mejor pero no tuvo gol. &lt;/p&gt;
+
+&lt;p&gt;El Cadiz es otro que debe mejorar. Superado por los leones en todo momento. Unos leones que notan la mano del Txingurri. Sin muchos cambios en su plantilla son otros respecto al año pasado. Y uno de los puntos positivos es que parecen haber encontrado gol. Un delantero centro que marca. Gol es lo que lo falta al Valencia y por eso el fichaje de Cavani. Ayer domino el partido hasta que el fisico empezo a resentirse pero les falto definir alguna de las ocasiones. Ocasiones que el Atleti tuvo durante todo el partido, a pesar de naufragar en el centro del campo y tener que achicar agua muchos minutos. Mamardashvili fue un muro infranqueable. Pero al final Griezmann que entro como revulsivo junto con Lemar, con un zarpazo, dio la victoria a los visitantes&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;Girona	0-1	Celta de Vigo&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563254683351019521&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Betis	1-0	Osasuna&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563591398397718529&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Elche	0-1	R. Sociedad&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563652419866746880&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Rayo	0-2	Mallorca&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563943694591483905&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Almeria	2-1	Sevilla&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563653923214442502&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Getafe	0-0	Villarreal&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1563990778573094913&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;FC Barcelona	4-0	Valladolid&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1564104504810868736&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Espanyol	1-3	Real Madrid&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1564355185576665089&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Cadiz	0-4	Athletic&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1564472842313515009&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Valencia	0-1	Atletico Madrid&lt;/strong&gt;&lt;/h4&gt;
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1564476441454067712&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?q=la+liga&amp;amp;rlz=1C1CHBD_esES802ES802&amp;amp;biw=1885&amp;amp;bih=1079&amp;amp;ei=Snv3YsDcGKeMlwT06qzIDg&amp;amp;ved=0ahUKEwjAqZCozMP5AhUnxoUKHXQ1C-kQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=la+liga&amp;amp;gs_lcp=Cgdnd3Mtd2l6EAMyCAguENQCEJECMgQIABBDMggILhDUAhCRAjIECAAQQzIFCC4QkQIyBQgAEJECMgUIABCRAjIECAAQQzIFCAAQgAQyBQgAEIAEOgQILhBDOgcILhDUAhBDOgUILhCABDoICC4QgAQQ1AI6CwguEIAEEMcBENEDOgsILhCABBDHARCvAUoECEEYAEoECEYYAFAAWO0FYP4GaABwAXgAgAHiAYgB3QeSAQUwLjYuMZgBAKABAcABAQ&amp;amp;sclient=gws-wiz#sie=lg;/g/11sqj24s0_;2;/m/09gqx;mt;fp;1;;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/27/nico-jackson</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/27/nico-jackson/"/>
+    <title>Nicolas Jackson</title>
+    <subtitle>Quien es el delantero senegalés del submarino amarillo</subtitle>s
+    <published>2022-08-27T00:00:00+02:00</published>
+    <updated>2022-08-27T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/27/nico-jackson/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FaEG0_yWQAoQqsc.jpg:large&quot; alt=&quot;Nico Jackson Villareal. Image from Villareal CF twitter&quot; title=&quot;Nico Jackson.Mejorjugador vllareal Valldolid&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Una de las sensaciones de estas primeras jornadas de la liga santander es sin duda &lt;a href=&quot;https://es.wikipedia.org/wiki/Nicolas_Jackson&quot;&gt;Nico Jackson&lt;/a&gt; del Villareal. El delantero senegalés nacido el 20 de junio de 2001 ha irrumpido con fuerza en el campeonato siendo nombrado incluso &lt;a href=&quot;https://mobile.twitter.com/VillarrealCF/status/1558535062571913221&quot;&gt;mejor jugador del partido&lt;/a&gt; del Villareal-Valladolid de la jornada 1. Otro más de la camada de 2001 como &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/13/aimar-oroz/&quot;&gt;Aimar Oroz&lt;/a&gt;, &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/11/moises-caicedo/&quot;&gt;Moises Caicedo&lt;/a&gt; o &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/15/alex-baena/&quot;&gt;Alex Baena&lt;/a&gt; de los que ya hemos hablado anteriormente.&lt;/p&gt;
+
+&lt;p&gt;El joven delantero se formó en el conjunto senegalés del &lt;a href=&quot;https://es.wikipedia.org/wiki/Casa_Sports_de_Ziguinchor&quot;&gt;Casa Sports de Ziguinchor&lt;/a&gt;,equipo que precisamnete se proclamó &lt;a href=&quot;https://www.cafonline.com/news-center/news/casa-sports-win-senegal-top-flight-league-title#:~:text=Casa%20Sports%20have%20clinched%20the,(30%20km%20from%20Dakar)&quot;&gt;campeón de la liga la pasada temporada&lt;/a&gt;. Del equipo senegalés llego en 2019 a la cantera grogueta, concretamente al equipo juvenl.&lt;!-- excerpt-end --&gt; Un año después de su llegada, dado su buen hacer y proyección, se marchó &lt;a href=&quot;https://www.cdmirandes.com/noticia/nicolas-jackson-mordiente-para-la-ofensiva-rojilla&quot;&gt;cedido&lt;/a&gt; al &lt;a href=&quot;https://es.wikipedia.org/wiki/Club_Deportivo_Mirand%C3%A9s&quot;&gt;Mirandes&lt;/a&gt; de 2ª división durante la temporada 2020/2021. En Miranda de Ebro disputó un total de 17 partidos marcadno un gol. Ya antes de su llegada se definía a Jackson como un jugador &lt;a href=&quot;https://www.cdmirandes.com/noticia/nicolas-jackson-mordiente-para-la-ofensiva-rojilla&quot;&gt;“…de gran envergadura (1,86m), que destaca por su desparpajo, velocidad y regate, con gran capacidad y pegada para generar peligro siempre que recibe en posiciones de ataque.”&lt;/a&gt;. Caracterísitcas que se confrmaron en su año de cesión en tierras burgalesas en los algo mñas de 700 minutos de los que dispuso. No era un titular pero si un recambio recurrente.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyb9jZJ2I1Pl3ifSl0D7vzga0-w-pj7UiDVqSOlKC_M81JLob6U80vC4Jy2hdv8B8mns&amp;amp;usqp=CAU&quot; alt=&quot;Nico Jackson debut Mirandes. Image from cdmirnades.com&quot; title=&quot;Nico Jackson.Debut Mirandes&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras el año de cesión en tierras castellanas volvió al Villareal para jugar con el filial en 1ªRFEF, participando de forma activa en el ascenso del filial amarillo. &lt;a href=&quot;https://www.superdeporte.es/villarreal-cf/2022/06/12/consiguio-villarreal-b-historico-ascenso-67184436.html&quot;&gt;Marco los dos goles que tumbaron al Nastic&lt;/a&gt; y a la postre certificaron el ascenso. Disputó 26 encentros con el filial anotando 7 goles. Además,la pasada temporada, &lt;a href=&quot;https://wiwsport.com/2021/10/03/laliga-nicolas-jackson-a-debute-avec-villarreal/&quot;&gt;debutó con el primer equipo&lt;/a&gt; con el que disputó un total de 9 encuentros repartidos entre liga y copa. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://wiwsport.com/wp-content/uploads/2021/10/FAzF1brXMAkl8eO-1.jpg&quot; alt=&quot;Nico Jackson debut Villareal. Image from wiwsport.com&quot; title=&quot;Nico Jackson.Debut Villareal-Betis&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esta temporada 22/23 ya va estar en dinámica de primer equipo de forma permanente tras &lt;a href=&quot;https://castellonplaza.com/el-villarreal-inscribe-a-alex-baena-y-nicolas-jackson-en-el-primer-equipo&quot;&gt;ser inscrito ayer como jugadro del primer equipo&lt;/a&gt; al igual que &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/15/alex-baena/&quot;&gt;Alex Baena&lt;/a&gt;. Llevará el dorsal 15. Veremos de cuantas oportunidades dispone, que parece que seran muchas visto que ha sido titular en las dos jornadas de liga disputadas y también jugó en los dos partidos contra el Hadjuk Split de clasificación para la conference league. Como sea, si sigue jugando asi tiene muchas probabilidades de ser un jugador importante para este &lt;a href=&quot;https://villarrealcf.es&quot;&gt;Villareal&lt;/a&gt; que año tras año se nutre de la cantera para dar forma a sus proyectos. Una cantera que cuida como pocos.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/22/Premier_tercera_jornada</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/22/Premier_tercera_jornada/"/>
+    <title>Premier League. Jornada 3</title>
+    <subtitle>Premier League. Matchweek 3</subtitle>s
+    <published>2022-08-22T00:00:00+02:00</published>
+    <updated>2022-08-22T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/22/Premier_tercera_jornada/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/Fas-WAyXEAA73Pr?format=jpg&amp;amp;name=small&quot; alt=&quot;Jack Harrison and Rodrigo celebrate Leeds’ third goal against Chelsea at Elland Road. Image from Leeds United official twitter&quot; title=&quot;Rodrgio gol Leeds vs Chelsea&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Tercera jornada de la Premier. Grandes partidos. Una locura de Newcastle-Manchester City y no menos interesantes los buenos partidos de Leeds contra Chelsea o Brighton contra West Ham. Esta liga por algo es considerada la mejor del mundo. Cualquier partido te sorprende. Cualquier equipo pueede dar la campanada. Los partidos se descontrolan en cuestion de minutos. Futbol en estado puro. Un gozo para el espectador. Sobre todo para el neutral porque ya si entran sentimientos en juego el disfrute dependerá del resultado final.&lt;/p&gt;
+
+&lt;p&gt;Dicho esto todos hacemos vacaciones y este blog no es menos. Asi quee esta semana en luigar del habitual resumen de cada partido os dejo mi TweetResumen de la jornada. Intentaremos a parte de la cronica del blog, hacer un hilo de twitter cada semana con el resumen de cada partido en un tweet.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;2500&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1560983325925429248&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?rlz=1C1CHBD_esES802ES802&amp;amp;q=premier+resultados&amp;amp;spell=1&amp;amp;sa=X&amp;amp;ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&amp;amp;biw=1163&amp;amp;bih=626&amp;amp;dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/22/La-Liga-Santander-Jornada-2</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/22/La-Liga-Santander-Jornada-2/"/>
+    <title>La Liga Santander. Jornada 2</title>
+    <subtitle>Resumen de la jornada</subtitle>s
+    <published>2022-08-22T00:00:00+02:00</published>
+    <updated>2022-08-22T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/22/La-Liga-Santander-Jornada-2/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FaoWhBBX0AYGr5w?format=jpg&amp;amp;name=small&quot; alt=&quot;La Liga Jornada 2. Betis gol vs Mallorca. Image from Betis official Twitter&quot; title=&quot;Betis celebra gol contra Mallorca&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Segunda jornada de La Liga Santander. Grandes partidos. Un Betis que a base de ganar partidos pone parches al lio con la inscripcion de fichajes. Un Madrid que parece no acusar la baja de Casemiro. Un Osasuna que volvio a ganar. Un Barcelona que no termina de carbrurar. Un Atletico que se lio. Un Athletic que gano. Un Valencia que se estrello contra el palo. Un Mallorca que lo intento pero no pudo. Un Sevilla que no va. Un Villareal que lleva dos de dos y un largo etc de titualres. Grandísima jornada y nos quedan todavía 36 más!&lt;/p&gt;
+
+&lt;p&gt;Dicho esto todos hacemos vacaciones y este blog no es menos. Asi quee esta semana en luigar del habitual resumen de cada partido os dejo mi TweetResumen de la jornada. Intentaremos a parte de la cronica del blog, hacer un hilo de twitter cada semana con el resumen de cada partido en un tweet.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;250&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/futbolresumen22/status/1560872473096331266&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?q=la+liga&amp;amp;rlz=1C1CHBD_esES802ES802&amp;amp;biw=1885&amp;amp;bih=1079&amp;amp;ei=Snv3YsDcGKeMlwT06qzIDg&amp;amp;ved=0ahUKEwjAqZCozMP5AhUnxoUKHXQ1C-kQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=la+liga&amp;amp;gs_lcp=Cgdnd3Mtd2l6EAMyCAguENQCEJECMgQIABBDMggILhDUAhCRAjIECAAQQzIFCC4QkQIyBQgAEJECMgUIABCRAjIECAAQQzIFCAAQgAQyBQgAEIAEOgQILhBDOgcILhDUAhBDOgUILhCABDoICC4QgAQQ1AI6CwguEIAEEMcBENEDOgsILhCABBDHARCvAUoECEEYAEoECEYYAFAAWO0FYP4GaABwAXgAgAHiAYgB3QeSAQUwLjYuMZgBAKABAcABAQ&amp;amp;sclient=gws-wiz#sie=lg;/g/11sqj24s0_;2;/m/09gqx;mt;fp;1;;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/21/Samuel-Lino</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/21/Samuel-Lino/"/>
+    <title>Samuel Lino</title>
+    <subtitle>Desborde brasileño para el Valencia</subtitle>s
+    <published>2022-08-21T00:00:00+02:00</published>
+    <updated>2022-08-21T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/21/Samuel-Lino/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img-estaticos.atleticodemadrid.com/system/file5s/78453/large/ULx4AUvHey_lino.jpeg?1657275418&quot; alt=&quot;Samuel Lino. Image from Atletico de Madrid website&quot; title=&quot;Samuel Lino extremo Atletico de Madrid, Valencia&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;El Valencia de Gattuso comenzó con buen pie la liga ganando por 1-0 a Girona. AUuque el resultado pueda parecer corto, el conjunto che realizó un gran encuentro. Uno de los jugadores más destacads del cuadro valencianista fué &lt;a href=&quot;https://es.wikipedia.org/wiki/Samuel_Lino&quot;&gt;Samuel Lino&lt;/a&gt;. El extremo brasileño fué un auténtico puñal por la banda izquierda realizando varias jugadas de mérito. Su gran encuentro propició muchas alabanzas e incluso la consecución de algun premio com el &lt;a href=&quot;https://eldesmarque.com/valencia/promociones/hyundai/364525-samuel-lino-el-jugador-hyundai-del-valencia-girona&quot;&gt;premio Hyundai&lt;/a&gt; al mejor jugador del encuentro que otorga el diario El Desmarque.&lt;/p&gt;
+
+&lt;p&gt;El jugadro brasileño nacido en Santo André el 23 de diciembre de 1999 ha llegado al Valencia &lt;a href=&quot;https://www.atleticodemadrid.com/noticias/acuerdo-con-el-valencia-para-la-cesion-de-samuel-lino&quot;&gt;cedido por el Atletico de Madrid&lt;/a&gt; sin opción de compra en busca de los minutos que presumiblemente no tendría en el conunto colchonero. El Atlético fichó a Lino este mismo verano del &lt;a href=&quot;https://es.wikipedia.org/wiki/Gil_Vicente_Futebol_Clube&quot;&gt;Gil Vicente&lt;/a&gt; portuguués donde desde su llegada en 2019,en tres temporadas, se convirtió en un jugador fundamental anotando 26 goles y repartiendo 5 asistencias en los 99 encuentros oficiales que disputó con el conjunto de Barcelos. &lt;!-- excerpt-end --&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/diarioas/status/1561107357375119360&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cabe destacar admás que la temporada pasada fue el segundo máximo anotador del equipo con 12 goles, por detrás del español &lt;a href=&quot;https://es.wikipedia.org/wiki/Francisco_Jos%C3%A9_Navarro_Aliaga&quot;&gt;Fran Navarro&lt;/a&gt; que marco 16 y que curiosamente se formó en la cantera valencianista desde donde dió el salto al conjunto portugues en 2017. Camino inverso al del brasileño. Además Lino fue el jugador que más chuto a puerta y más faltas recibió del equipo, además del que más duelos ganó, demostrando &lt;a href=&quot;https://www.marca.com/resultados/futbol/gil-vicente/estadisticas/2021/0110/C666.html&quot;&gt;estos números&lt;/a&gt; su gran aportación al equipo.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/GilVicente_fc/status/1464371987346767876?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1464371987346767876%7Ctwgr%5E2e019cbd4f18c096f8485de4cbadd2923b5ee9af%7Ctwcon%5Es1_&amp;amp;ref_url=https%3A%2F%2Fwww.goal.com%2Fes%2Fnoticias%2Fquien-es-samuel-lino-nuevo-fichaje-del-atletico-madrid-de%2Fblt84a647381eaf4da1
+&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Previo a su fichaje por el Gil Vicente, el extremo jugó en el &lt;a href=&quot;https://es.wikipedia.org/wiki/S%C3%A3o_Bernardo_Futebol_Clube&quot;&gt;Sao Bernardo brasileño&lt;/a&gt; durante dos temporadas, debutando en el campeonato paulista. En esas temporadas jugo cedido unos meses en las categorías inferiores del Flamengo. Su buen desempeño junto a su juventud hizo que pudiera dar el salto a europa de la mano del Gil Vicente&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/valenciacf_en/status/1552681012710219778?ref_src=twsrc%5Etfw&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Calidad, desequilibrio, juventud y gol para la banda valencianista, y la colchonera en un futuro. Veremos como se desempeña de la maano de Gattuso en este Valencia. La carta de presentación ha sido inmejorable. Las referencias  de portugal también lo son. Esperemos que este año la banda valencianista este bien cubierta y proporcione grandes tardes de gloria en Mestalla a la parroquia valencianista. &lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/19/Pedrag-Rajković</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/19/Pedrag-Rajkovi%C4%87/"/>
+    <title>Predrag Rajković</title>
+    <subtitle>El muro serbio del Mallorca</subtitle>s
+    <published>2022-08-19T00:00:00+02:00</published>
+    <updated>2022-08-19T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/19/Pedrag-Rajkovi%C4%87/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://phantom-marca.unidadeditorial.es/6dc295e98551926f81c4b6356b6f7984/resize/660/f/webp/assets/multimedia/imagenes/2022/07/22/16585114021156.jpg&quot; alt=&quot;Predrag Rajkovic. Image from Diario Marca&quot; title=&quot;Pedrag Rajkovic,portero,mallorca&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Ha comenzado La Liga y el Mallorca parece que tendrá que pulir ciertos aspectos de su juego para no sufrir como el año pasado en su objetivo de permanecer un año mñas en La Liga Santander. Sin embargo hay motivos para la ilusión en la isla. El primer partido de liga contra el Athletic dejó claro que tienen portero. &lt;a href=&quot;https://en.wikipedia.org/wiki/Predrag_Rajkovi%C4%87&quot;&gt;Predrag Rajković&lt;/a&gt; se erigió en el salvador de los bermellones que si lograron amarrar un punto fue, en gran medida, gracias al cancerbero serbio.&lt;/p&gt;
+
+&lt;p&gt;Rajkovic, nacido en Negotino en 1995, ha llegado este verano a la isla procedente del &lt;a href=&quot;https://www.stade-de-reims.com&quot;&gt;Stade de Reims&lt;/a&gt; de la liga francesa. El porteo serbio de 26 años, a pesar de su edad, cuenta con una larga trayectoria como profesional. &lt;!-- excerpt-end --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tmssl.akamaized.net/images/foto/galerie/predrag-rajkovic-stade-reims-1570779745-26466.jpg?lm=1570779774&quot; alt=&quot;Pedrag Rajkovic,Mallorca.Goalkeeper.Portero.Guardameta. Image from transfermarkt.com&quot; title=&quot;Pedrag Rajkovic,portero,stade de reims&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En la temporada 2012/13 debutó con la &lt;a href=&quot;https://en.wikipedia.org/wiki/FK_Jagodina&quot;&gt;FK Jagodina&lt;/a&gt; equipo de la primera división serbia de la cual Predrag es canterano. En el año del debut de Rajković, la Jagodina disputó competición europea por primera vez en su historia. Después de terminar en cuarta posición en la temporada 2011/2012 se clasificó para la antigua UEFA aunque perdieron en primera ronda contra el &lt;a href=&quot;https://en.wikipedia.org/wiki/FC_Ordabasy&quot;&gt;Ordabasy de Kazakhstan&lt;/a&gt;. Ese mismo año se proclamó campeón de copa contra la todopoderosa &lt;a href=&quot;https://en.wikipedia.org/wiki/FK_Vojvodina&quot;&gt;Vojvodina&lt;/a&gt;. De esta manera Rajković comenzó a engrosar su palmarés. En Marzo de 2013, con tan solo 17 años, hizó su debut en la primera división contra el &lt;a href=&quot;https://en.wikipedia.org/wiki/FK_Partizan&quot;&gt;Partizan de Belgrado&lt;/a&gt;. Ese mismo año Rajkovic se proclamó campeón de la &lt;a href=&quot;https://en.wikipedia.org/wiki/2013_UEFA_European_Under-19_Championship&quot;&gt;Eurocopa sub19&lt;/a&gt; con Serbia. Su buena actuación en el torneo junto con la salida del portero titular del equipo, le sirvió para obtener la titularidad en la siguiente temporada. Tras dos partidos, eso si, ficho por el &lt;a href=&quot;https://en.wikipedia.org/wiki/Red_Star_Belgrade&quot;&gt;Estrella Roja de Belgrado&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://editorial.uefa.com/resources/0257-0deced9551f5-fdf55eddbf95-1000/format/wide1/serbia_captain_marko_pavlovski_and_his_team-mates_get_their_hands_on_the_prize.jpeg?imwidth=2048&quot; alt=&quot;Pedrag Rajkovic,Mallorca.Goalkeeper.Portero.Guardameta. Image from UEFA.com&quot; title=&quot;Pedrag Rajkovi campeon eurocopa sub19 2013 con Serbia&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el Estrella Roja estuvo dos temporadas donde disputó un total de 35 encuentros. En su primera temprada, en la que el equipo se proclamó campeón de liga, apenas jugó siendo el suplente de &lt;a href=&quot;https://en.wikipedia.org/wiki/Boban_Bajkovi%C4%87&quot;&gt;Boban Bajković&lt;/a&gt; pero en la segunda temporada fué el portero titular proclamándose mejor portero de la liga serbia 2014/2015. Este galardón se otorga en base a las votaciones de otros jugadores. Ese mismo año, en 2015, se proclamó &lt;a href=&quot;https://www.marca.com/2015/06/20/futbol/1434785786.html&quot;&gt;campeón del mundial sub20&lt;/a&gt; con Serbia.&lt;/p&gt;
+
+&lt;p&gt;Tras renovar 3 año con el Estrella Roja, sin llegar a debutar en la que iba a ser su tercera temporada, primera trás la renovación, se marchó al &lt;a href=&quot;https://en.wikipedia.org/wiki/Maccabi_Tel_Aviv_F.C.&quot;&gt;Maccabi de Tel Aviv&lt;/a&gt;. En el conjunto israelí disputo 136 encuentros en 4 temporadas entre liga, copa y competiciones continentales, incluyendo la Champions League. En Israel conquistó la Liga en la temporada 2017/18 y la copa en dos ocasiones en la 2017/18 y en la 2018/19.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://static.maccabi-tlv.co.il/wp-content/uploads/2017/12/MTA_20171213104234f354911b0988bfe49da455f85dfcfa8f.jpg&quot; alt=&quot;Pedrag Rajkovic,Mallorca.Goalkeeper.Portero.Guardameta. Image from maccabi-tlv.co.il&quot; title=&quot;Pedrag Rajkovi campeon tot cup 2018/19 coon Maccabi Tel Aviv&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el verano de 2019 se marchó al Stade de Reims como substituo de Edouard Mendy que se marchó al &lt;a href=&quot;https://en.wikipedia.org/wiki/Stade_Rennais_F.C.&quot;&gt;Rennes&lt;/a&gt; desde donde posteriormente ficharía por el Chelsea. En Reims Rajkovic fué el portero titular disputando 101 encuentros en tres años sin conquistar ningún título. La temporada pasada se hizo famoso en nuestro país al salir en varios diarios deportivos una imagen suya &lt;a href=&quot;https://www.eurosport.es/futbol/ligue-1/2021-2022/rajkovic-portero-del-reims-pide-a-messi-una-foto-con-su-hijo_sto8510917/story.shtml&quot;&gt;pidiendo una foto a Leo Messi&lt;/a&gt; con su hijo. El Stade de Reims disputo contra el PSG el partido en que Messi debutó en la Ligue1, lo cual propició este momento.&lt;/p&gt;
+
+&lt;p&gt;En verano de 2022 fichó por el Mallorca para ser su portero titular.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/RCD_Mallorca/status/1559489918111473665&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A nivel internacional ha jugado con serbia en todas las categorias inferiores desde la sub16 hasta la sub21. Actualmente juega en la selección absoluta de Serbia con la que disputará el mundial de Catar y ya disputó el de 2018 en Rusia.&lt;/p&gt;
+
+&lt;p&gt;A tenor de su trayectoria y palmarés, su fichaje parece un gran acierto de la dirección deportiva del Mallorca. Veremos como evoluciona la temporada pero si mantiene el nivel del primer encuentro, la portería bermellona esta a buen recaudo.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/16/Premier_segunda_jornada</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/16/Premier_segunda_jornada/"/>
+    <title>Premier League. Jornada 2.</title>
+    <subtitle>Premier League. Matchweek 2</subtitle>s
+    <published>2022-08-16T00:00:00+02:00</published>
+    <updated>2022-08-16T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/16/Premier_segunda_jornada/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/blog/j2.webp&quot; alt=&quot;Premier League Jornada 2&quot; title=&quot;Results Matchweek2 Premier League 2022/23&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Segunda jornada de la Premier. Grandes partidos con alternativas. Box to box que dicen los ingleses, futbol vertical ataque muchas ocasiones e intercambio de golpes &lt;!-- excerpt-end --&gt; Jornada interesante que ha dejado varias sorpresas como el segundo empate consecutivo del Liverpoolo el hundimeinto del United, siguiendo la tónica de lo visto en la &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/07/Comienza-la-Premier/&quot;&gt;primera jornada&lt;/a&gt;. También dejó &lt;a href=&quot;https://www.youtube.com/watch?v=BB0rZTpoH9o&quot;&gt;tensión como la vivida entre Conte y Tuchel&lt;/a&gt;, ambos expulsados al final del partido, que aunque no llegaron a las manos si que tuvieron un encontrazo con ellas mediante.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/premierleague/status/1559599624876326918&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;La jornada comenzó con un disputado Aston villa Everton que ganaron los villanos por &lt;a href=&quot;https://www.youtube.com/watch?v=ZFZynMX4Zkk&quot;&gt;2-1&lt;/a&gt;. El encuentro suponia un nuevo duelo entre los míticos Gerrard y Lampard esta vez desdelos banquillos. El partido fue muy disputado aunque siempre dó la sensacion de que los villanos tenían un puntito más. A los toffes lesqueda mucho trabajo por delante. Tienen tiempo per han de dar un giro de 180º o elcoqueteo con el descenso de la temporada anterior amenaza con repetirse. Lampard espera nuevo fichajes que cambien la dinamica del equipo, comenzando por un viejo conocido como &lt;a href=&quot;https://www.goodisonnews.com/2022/08/16/everton-could-complete-idrissa-gueye-transfer-in-next-24-48-hours-sky-sports/&quot;&gt;Idrissa Gueye&lt;/a&gt;. Como nota negativa, cabe destacar la desgraciada lesión de Diego Carlos que tiene para 9 meses de baja. Vino para ser titular, veremos como suplen esta baja los villanos.&lt;/p&gt;
+
+&lt;p&gt;Southampton y Leeds &lt;a href=&quot;https://www.youtube.com/watch?v=DP7oiIuNLsc&quot;&gt;empataron a 2&lt;/a&gt; en un encuentro en el que los whites dominaron el encuentro sin permitir apenas ocasiones al conjunto local hasta el minuto 60-65 de lapriemr aparte. Dos goles de Rpdrigo Moreno certificaron esta superioridad. Sin embargo,tras el segundo gol, el Southampton se repuso y en apenas 10 minutos con goles de Joe Aribo, llegado este verano procedente del Rangers, en el 72’ y Walker-Peters, buque insgnia de este Southampton, en el 81’ dieron la vuelta al partido. Pasando a dominarlo por encima de un Leeds que se descompuso. Por parte del Leeds cabe destacar de forma negativa la lesión de Patrick Bamford. El año pasado apenas jugo por este motivo. Veremos si le respetan o no las lesiones esta temporada. Este Leeds tiene depositadas muchas esperanzas en Bamfors aunque Rodrigo Moreno jugando de 9 respondio el ora dia.Puede ser una alternativa ya que esta, o la de segudno delantero, es su posicion natural. Lejos de la banda donde le colocaba Bielsa de forma habitual.&lt;/p&gt;
+
+&lt;p&gt;El Arsenal goleo por &lt;a href=&quot;https://www.youtube.com/watch?v=pR0pHu2dQ9Q&quot;&gt;4-2&lt;/a&gt; al Leicester. Un doblete de Gabriel Jesus certificó elmomento dule del brasileño desde su llegada al Emirates. Xhaka en el 55’ y Martinelli  en el 75’,otro que también esta de dulce, pusieron el resto de goles de los gunners.Por parte delLeicester Willima Saliba en propia puerta en el 53’ y Maddison en el 74’ pusieron los goles foxes en el marcador. El arsenal certifico que este año queire aspirar a cosas importantes mientras que el Leciester debe terminar de pulir varias cosas en su juego.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/Arsenal/status/1559136276548395008&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Brighton y Newcastle &lt;a href=&quot;https://www.youtube.com/watch?v=zAqRv20Ol1c&quot;&gt;empataron a 0&lt;/a&gt; en un encuentro mucho más entretenido de lo que refleja el marcador. Un Brighton que recientemente ha anunciado el fichaje de Pervis Estupiñan como substituo de Marc Cucurella. Sabor ecuatoriano para la banda izquierda de los Seagulls. Fulham y Wolves repitieron el mismo resultado. &lt;a href=&quot;https://www.youtube.com/watch?v=CK_1x9fU4vM&quot;&gt;0-0&lt;/a&gt;.  Un aprti entretedo en el que Jose Sa salvo a su equipo parando incluso un penalti a Mitrovic.&lt;/p&gt;
+
+&lt;p&gt;El Manchester City goleó or &lt;a href=&quot;&quot;&gt;4-0&lt;/a&gt; al Bournemouth. Los cherries no pudieron en ningun momento con los citizens que con los golesde Gundogan en el 19’, De bRUYNE EN EL 31’ y Foden en el 37’ finquitaron el encuentro.En el 79’ Lerma en propa puerta puso el 4-0 definitivo. Los cherries saben que esa no es su liga y tras comenzar ganando en la priemra jornada deben olvidarse este encuentro y afrontar con confianza el próximo contra el ARsenal sabiendo que aun perdiendo de nuevo tiene el colchon de los primeors 3 puntos conseguidos en la jornada 1.&lt;/p&gt;
+
+&lt;p&gt;La sorpresa de la tarde del sábado fue sin duda la goleada por &lt;a href=&quot;https://www.youtube.com/watch?v=5t9WQHcy6dE&quot;&gt;4-0&lt;/a&gt; del Brentford al Manchester United. Un United sin ideas donde De Gea regaló un gol de los que nunca suele fallar. Donde Lisandro Martinez fue substituido al descanso por Varane quedando señalado por Ten Hag. Un United donde no hay ni individualidades ni juego colectivo. Un desastre sin paliativos que debe cambiar por el bien del equipo mancuniano. En los despachos por si fuera poco la sensacion es la misma que en el cesped. Desorden sin ideas. Los goles de Da Silva, Jensen , Mee y Mbeumo pusieron el 4-0 en el marcador en el minuto 35. Las estadisticas del partidan hablan de un cho que igualado pero el que lo vio en directo sabe que el Brentford bailó al United. Al menos 35’. Luego jugó con el resultado.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/BrentfordFC/status/1559262755613466625&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;El domingo comenzó con la victoria &lt;a href=&quot;https://www.youtube.com/watch?v=ysUq9f86Sy0&quot;&gt;1-0&lt;/a&gt; del Forest contra el West Ham. Un encuentro en el que el Forest comenzó dominando pero después fueron los hammers los que llevaron la iniciativa aunque incapaces de perforar la portería de Henderson que realizó grandes intervenciones. El gol de Taiwo Awoniyi de rebote en el descuento de la primera parte fue suficiente para el forest. Para intentar mejorar en defensa los hammers han &lt;a href=&quot;https://www.fichajes.net/noticias/oficial-thilo-kehrer-ficha-west-ham-20220817.html&quot;&gt;contratado recientemente los servicios de Kehrer&lt;/a&gt;. Veremos si esto ayuda a soluionar los problemas que han tenido al inciio de temporada en esta zona del campo.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/WestHam/status/1560254986507784192&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;En la tarde del domingo de produjo el emocionate Chelsea-Tottenahm. Empate a 2 que sabe a poco para los blues que dominaron el partido de principio a fin y vieron como con dos tantos polémicos ya que llegaron tras faltas clarísimas no señaladas a favor del Chelsea en ambos casos. Cucurella y Koulibaly demostraron que vana  ser dos grandes fichajes para este equipo. Menudo golazo fabricaron entee los dos. El catalan la pusos desde el corner y el costa marfileño la empalmo de volea imparable al fondo de la red. Al final del partido la tensión acumulada se tradujo en una trifulca entre los entrenadores que termino con ambso expulsados. A modo negativo por parte del Tottenham me gustaria destacar al Cuti Romero grandísimo central pero que jugo demasiado acelerado y sin la permisividad del colegiado debería haber sido amonestado en más de una ocasión e incluso expulsado del encuentro. No me gusto en absoluto como lo hizo el argentino.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/ski0r/status/1559140818409213954&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Finalmente el lunes Liverpool y Crystal Palace empataron a 1. El Palace se adelanto con un gol de Zaha en el 31’ que Luis Diaz empato en el 61’. Desde el 57’ los reds jugaron con un hombre menos por expulsión de Darwin Nuñez que dió un cabezazo a Andersen. La defensa del Palace saco de sus casillas al uruguayo que no supo contenerse. Debe controlarse o lo va a pasar muy mal en Inglaterra. Una liga la inglesa donde hacen una montaña de este tipo de cosas más aún tras lo que costó el delantero fichado este verano del Benfica.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/CPFC/status/1559959092298498049&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Interesante segunda jornada de la premier, o &lt;em&gt;matchweek 2&lt;/em&gt; que dirian por las islas. Veremos que nos depara la próxima y desde luego lo contaremos aquí!&lt;/p&gt;
+
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?rlz=1C1CHBD_esES802ES802&amp;amp;q=premier+resultados&amp;amp;spell=1&amp;amp;sa=X&amp;amp;ved=2ahUKEwi98q678bT5AhWshM4BHTZgA1sQBSgAegQIARA4&amp;amp;biw=1163&amp;amp;bih=626&amp;amp;dpr=1.65#sie=lg;/g/11pz7zbpnb;2;/m/02_tc;mt;fp;1;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2022/08/16/Comienza-La-Liga-parte2</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2022/08/16/Comienza-La-Liga-parte2/"/>
+    <title>Arranca La Liga Santander! Jornada 1 Segunda parte</title>
+    <subtitle>Jornada 1 Parte 2. Lunes 15/08</subtitle>s
+    <published>2022-08-16T00:00:00+02:00</published>
+    <updated>2022-08-16T00:00:00+02:00</updated>
+    <author>
+      <name>Melchor Sanchez-Martinez</name>
+      <uri>/2022/08/16/Comienza-La-Liga-parte2/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://images.ecestaticos.com/DSBudry1Z9lzDkhRMTm9ZtotY4g=/0x0:2272x1655/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed6%2F80e%2Fddf%2Fed680eddf1842925dac72d91dbe7274a.jpg&quot; alt=&quot;La Liga Jornada 1. Imagen via El Confdencial&quot; title=&quot;Morata gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- excerpt-start --&gt;
+
+&lt;p&gt;Tras los &lt;a href=&quot;https://resumenesdefutbol.com/2022/08/14/Comienza-La-Liga/&quot;&gt;partidos disputados el viernes y el fin de semana&lt;/a&gt;, el lunes nos deparó tres grandes encuetros. En el primero de ellos Athletic y Mallorca no pasaron del &lt;a href=&quot;https://www.youtube.com/watch?v=ik7XnSgbttM&amp;amp;feature=onebox&quot;&gt;0-0&lt;/a&gt; en la &lt;a href=&quot;https://es.besoccer.com/noticia/el-athletic-de-valverde-3-0-comienza-ante-un-mallorca-confiado-1172984&quot;&gt;vuelta del Txingurri Valverde a los banquillos&lt;/a&gt; tras su accidentado paso por el Barcelona. Un partido dominado por los rojiblanos en el que Rajkovic fue la gran estrella de un Mallorca al que salvo de la goleada. Valverde va a añorar a Aritz Aduriz desatascador de un gran número de partidos en su etapa anterior en Bilbao. En el Mallorca debutaron Rajkovic, Copete, Maffeo, Battaglia y Muriqui. Estos tres últimos adquiridos en propiedad tras estar cedidos en el equipi el curso anterior. También re-debutó tras su vuelta de cesión Lago Junior. En los bilbainos debutaron Gorka Guruzeta y Adu Ares.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/AthleticClub/status/1559254287766765569)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt; El siguiente partido del lunes lo protagonizaron Getafe y Atletico de Madrid. Los colchoneros vencieron por &lt;a href=&quot;https://www.youtube.com/watch?v=QfYLwiB6RjE&amp;amp;feature=onebox&quot;&gt;0-3&lt;/a&gt; al conjunto azulon en un choque mucho más igualado de lo que indica el resultado. Con un Morata en estado de gracia y Joao Felix asumiendo galones los rojiblancos salieron triunfantes del coliseo. Los dos goles de Morata en el 15’ y el 59’ más el de Griezmann en el 75’ certificaron el triunfo de los de Simeone. En el Getafe debutaron Domingos Duarte, Fabrizio Angileri, Seoane, Portu y Borja Mayoral. Kiko Casilla y Luis Milla deberán esperar su oportunidad. Por los colchoneros debutaron Witsel y Nahuel Molina.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;650&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/Atleti/status/1559271736432025600)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt; El útlimo partido de la jornada lo protagonizaron Betis y Elche. Un Betis que no ha podido inscribir a ninguno de sus fichajes y que ha visto como Marc Bartra se marchaba al Trabzonspor turco seguramente obligado por las urgencias y prisas economicas que reinan en Heliópolis. Lamentablemente todo parece indicar que la salida de algun hombre importante más se sumará a la de Bartra. En cuato al partido se refiere, los andaluces se impusieron por &lt;a href=&quot;https://www.youtube.com/watch?v=zEqnNvM9gvk&amp;amp;feature=onebox&quot;&gt;3-0&lt;/a&gt; a los ilicitanos. El conjunto verdiblanco capitaneado por un estelar Nabil Fekir arrollaron al conjunto de Francisco. Los goles de Borja Iglesias en el 28’ y Juanmi por partida doble en el 39’ y el 60’ certificaron la superioridad andaluza en un meritorio triunfo. Cabe destacar, eso si, que la expuslión en el minuto 15 de John Cetauya facilitó la labor bética. En el Elche debutaron Roger Marti y Ezequiel Ponce. Carlos Clerc, Lautaro Blanco, Collado y Pol Lirola deberán esperar. En el betis debutó el canterano Fran.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;iframe border=&quot;0&quot; frameborder=&quot;0&quot; height=&quot;750&quot; width=&quot;550&quot; class=&quot;responsive-iframe center-block&quot; src=&quot;https://twitframe.com/show?url=https://twitter.com/RBetisCantera/status/1559508269508476930)&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Más información de los diferentes partidos &lt;a href=&quot;https://www.google.com/search?q=la+liga&amp;amp;rlz=1C1CHBD_esES802ES802&amp;amp;biw=1885&amp;amp;bih=1079&amp;amp;ei=Snv3YsDcGKeMlwT06qzIDg&amp;amp;ved=0ahUKEwjAqZCozMP5AhUnxoUKHXQ1C-kQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=la+liga&amp;amp;gs_lcp=Cgdnd3Mtd2l6EAMyCAguENQCEJECMgQIABBDMggILhDUAhCRAjIECAAQQzIFCC4QkQIyBQgAEJECMgUIABCRAjIECAAQQzIFCAAQgAQyBQgAEIAEOgQILhBDOgcILhDUAhBDOgUILhCABDoICC4QgAQQ1AI6CwguEIAEEMcBENEDOgsILhCABBDHARCvAUoECEEYAEoECEYYAFAAWO0FYP4GaABwAXgAgAHiAYgB3QeSAQUwLjYuMZgBAKABAcABAQ&amp;amp;sclient=gws-wiz#sie=lg;/g/11sqj24s0_;2;/m/09gqx;mt;fp;1;;;&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://localhost:4000/2022/08/15/alex-baena</id>
@@ -131,8 +538,7 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Esta temporada 22/23 parace que ya va estar en dinámica de primer equipo de forma permanente tras &lt;a href=&quot;https://www.osasuna.es/noticia/osasuna-renueva-a-aimar-oroz-hasta-el-2026&quot;&gt;renovar su contrato&lt;/a&gt; el pasado junio hasta 2026. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ayer tiene muchas probabilidades de ser un jugador importante para este &lt;a href=&quot;https://www.osasuna.es&quot;&gt;Osasuna&lt;/a&gt; que año tras año se nutre de la cantera para dar forma a sus proyectos.&amp;lt;p&amp;gt;
-&lt;/p&gt;
+&lt;p&gt;Esta temporada 22/23 parece que ya va estar en dinámica de primer equipo de forma permanente tras &lt;a href=&quot;https://www.osasuna.es/noticia/osasuna-renueva-a-aimar-oroz-hasta-el-2026&quot;&gt;renovar su contrato&lt;/a&gt; el pasado junio hasta 2026. Veremos de cuantas oportunidades dispone pero si cuando juega lo hace como ayer tiene muchas probabilidades de ser un jugador importante para este &lt;a href=&quot;https://www.osasuna.es&quot;&gt;Osasuna&lt;/a&gt; que año tras año se nutre de la cantera para dar forma a sus proyectos.&lt;/p&gt;
 </content>
   </entry>
   
@@ -194,7 +600,7 @@
       <name>Melchor Sanchez-Martinez</name>
       <uri>/2022/08/08/Comienza-la-Premier-segunda-parte/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_banners/343627165/1659976320/1500x500&quot; alt=&quot;Premier League Jornada 1&quot; title=&quot;Erwing Haaland gol&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_118346797.jpg&quot; alt=&quot;Premier League Jornada 1&quot; title=&quot;Erwing Haaland gol. Image from inews.com&quot; class=&quot;img-responsive center-block&quot; style=&quot;max-width: 2500px; width: 100%; margin-top: 10px; margin-bottom: 10px&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- excerpt-start --&gt;
 
