@@ -9,7 +9,7 @@ date: 2022-09-01
 tags: [Jornada de Liga, PremierLeague]
 image: /static/img/thumbs/premier.webp
 ---
-<img  src="https://ia.tmgrup.com.tr/41c108/600/314/0/0/800/419?u=https://i.tmgrup.com.tr/anews/v1/2022/08/28/saint-maximin-snatches-late-point-for-newcastle-at-wolves-1661701402818.jpeg" alt="Saint-Maximin Newcastle goal. Image from anews.com" title="Saint-Maximin golazo volea" class="img-responsive center-block" style="max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px">
+<img  src="https://images.ole.com.ar/2022/08/31/nCZ_8kqmI_1256x620__2.jpg#1661978320723" alt="Julian Alvarez gol. Image from diario Ole" title="Julian ALvarez,la arañita, ex de River,gol con el Manchester City,doblete" class="img-responsive center-block" style="max-width: 1500px; width: 60%; margin-top: 10px; margin-bottom: 10px">
 
 <!-- excerpt-start -->
 
